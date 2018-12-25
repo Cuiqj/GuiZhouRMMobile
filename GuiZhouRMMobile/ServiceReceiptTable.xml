@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServiceReceiptTable>
+    <Paper size="A4" width="595" height="842">
+        <!--定义纸张边距，上，左，右，下-->
+        <Margin top="70"  left="70" right="65" bottom="65" />
+    </Paper>
+    <StaticTable>
+        <Lines>
+            <defaultLineWidth>0.5</defaultLineWidth>
+            <line x1="0" y1="70" x2="84" y2="70" />
+            
+            <line x1="0" y1="70" x2="0" y2="110" />
+            
+            <line x1="84" y1="70" x2="460" y2="70" />
+            
+            <line x1="84" y1="70" x2="84" y2="110" />
+            
+            <line x1="84" y1="70" x2="84" y2="110" />
+            
+            <line x1="460" y1="70" x2="460" y2="110" />
+            
+            <line x1="0" y1="110" x2="84" y2="110" />
+            
+            <line x1="0" y1="110" x2="84" y2="110" />
+            
+            <line x1="0" y1="110" x2="0" y2="150" />
+            
+            <line x1="84" y1="110" x2="460" y2="110" />
+            
+            <line x1="84" y1="110" x2="460" y2="110" />
+            
+            <line x1="84" y1="110" x2="84" y2="150" />
+            
+            <line x1="84" y1="110" x2="84" y2="150" />
+            
+            <line x1="460" y1="110" x2="460" y2="150" />
+            
+            <line x1="0" y1="150" x2="84" y2="150" />
+            
+            <line x1="0" y1="150" x2="84" y2="150" />
+            
+            <line x1="0" y1="150" x2="0" y2="190" />
+            
+            <line x1="84" y1="150" x2="460" y2="150" />
+            
+            <line x1="84" y1="150" x2="460" y2="150" />
+            
+            <line x1="84" y1="150" x2="84" y2="190" />
+            
+            <line x1="84" y1="150" x2="84" y2="190" />
+            
+            <line x1="460" y1="150" x2="460" y2="190" />
+            
+            <line x1="0" y1="190" x2="120" y2="190" />
+            
+            <line x1="0" y1="190" x2="84" y2="190" />
+            
+            <line x1="0" y1="190" x2="0" y2="232" />
+            
+            <line x1="84" y1="190" x2="460" y2="190" />
+            
+            <line x1="120" y1="190" x2="180" y2="190" />
+            
+            <line x1="120" y1="190" x2="120" y2="232" />
+            
+            <line x1="120" y1="190" x2="120" y2="232" />
+            
+            <line x1="180" y1="190" x2="228" y2="190" />
+            
+            <line x1="180" y1="190" x2="180" y2="232" />
+            
+            <line x1="180" y1="190" x2="180" y2="232" />
+            
+            <line x1="228" y1="190" x2="312" y2="190" />
+            
+            <line x1="228" y1="190" x2="228" y2="232" />
+            
+            <line x1="228" y1="190" x2="228" y2="232" />
+            
+            <line x1="312" y1="190" x2="372" y2="190" />
+            
+            <line x1="312" y1="190" x2="312" y2="232" />
+            
+            <line x1="312" y1="190" x2="312" y2="232" />
+            
+            <line x1="372" y1="190" x2="460" y2="190" />
+            
+            <line x1="372" y1="190" x2="372" y2="232" />
+            
+            <line x1="372" y1="190" x2="372" y2="232" />
+            
+            <line x1="460" y1="190" x2="460" y2="232" />
+            
+            <line x1="0" y1="232" x2="120" y2="232" />
+            
+            <line x1="120" y1="232" x2="180" y2="232" />
+            
+            <line x1="180" y1="232" x2="228" y2="232" />
+            
+            <line x1="228" y1="232" x2="312" y2="232" />
+            
+            <line x1="312" y1="232" x2="372" y2="232" />
+            
+            <line x1="372" y1="232" x2="460" y2="232" />
+            
+            <line x1="0" y1="512" x2="120" y2="512" />
+            
+            <line x1="0" y1="512" x2="0" y2="584" />
+            
+            <line x1="120" y1="512" x2="460" y2="512" />
+            
+            <line x1="120" y1="512" x2="120" y2="584" />
+            
+            <line x1="120" y1="512" x2="120" y2="584" />
+            
+            <line x1="460" y1="512" x2="460" y2="584" />
+            
+            <line x1="0" y1="584" x2="120" y2="584" />
+            
+            <line x1="120" y1="584" x2="460" y2="584" />
+            
+            <rect x1="0" y1="232" x2="120" y2="288" />
+            
+            <rect x1="120" y1="232" x2="180" y2="288" />
+            
+            <rect x1="180" y1="232" x2="228" y2="288" />
+            
+            <rect x1="228" y1="232" x2="312" y2="288" />
+            
+            <rect x1="312" y1="232" x2="372" y2="288" />
+            
+            <rect x1="372" y1="232" x2="460" y2="288" />
+            
+            <rect x1="0" y1="288" x2="120" y2="344" />
+            
+            <rect x1="120" y1="288" x2="180" y2="344" />
+            
+            <rect x1="180" y1="288" x2="228" y2="344" />
+            
+            <rect x1="228" y1="288" x2="312" y2="344" />
+            
+            <rect x1="312" y1="288" x2="372" y2="344" />
+            
+            <rect x1="372" y1="288" x2="460" y2="344" />
+            
+            <rect x1="0" y1="344" x2="120" y2="400" />
+            
+            <rect x1="120" y1="344" x2="180" y2="400" />
+            
+            <rect x1="180" y1="344" x2="228" y2="400" />
+            
+            <rect x1="228" y1="344" x2="312" y2="400" />
+            
+            <rect x1="312" y1="344" x2="372" y2="400" />
+            
+            <rect x1="372" y1="344" x2="460" y2="400" />
+            
+            <rect x1="0" y1="400" x2="120" y2="456" />
+            
+            <rect x1="120" y1="400" x2="180" y2="456" />
+            
+            <rect x1="180" y1="400" x2="228" y2="456" />
+            
+            <rect x1="228" y1="400" x2="312" y2="456" />
+            
+            <rect x1="312" y1="400" x2="372" y2="456" />
+            
+            <rect x1="372" y1="400" x2="460" y2="456" />
+            
+            <rect x1="0" y1="456" x2="120" y2="512" />
+            
+            <rect x1="120" y1="456" x2="180" y2="512" />
+            
+            <rect x1="180" y1="456" x2="228" y2="512" />
+            
+            <rect x1="228" y1="456" x2="312" y2="512" />
+            
+            <rect x1="312" y1="456" x2="372" y2="512" />
+            
+            <rect x1="372" y1="456" x2="460" y2="512" />
+            
+            <rect x1="0" y1="584" x2="460" y2="707" />
+        </Lines>
+        <Title>
+            <Text>
+                <text>送 达 回 证</text>
+                <fontSize>22</fontSize>
+                <origin x="0" y="0" />
+                <size width="460" height="48" />
+                <alignment>Center</alignment>
+            </Text>
+        </Title>
+        <Texts>                   
+            <Text>
+                <text>受送达人</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="70" />
+                <size width="84" height="40" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>案    由</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="110" />
+                <size width="84" height="40" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>送达单位</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="150" />
+                <size width="84" height="40" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>送达文书名称及案号</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="190" />
+                <size width="120" height="42" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>送达人</text>
+                <fontSize>12</fontSize>
+                <origin x="120" y="190" />
+                <size width="60" height="42" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>送达方式</text>
+                <fontSize>12</fontSize>
+                <origin x="180" y="190" />
+                <size width="48" height="42" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>送达地点</text>
+                <fontSize>12</fontSize>
+                <origin x="228" y="190" />
+                <size width="84" height="42" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>收件人签名或盖章</text>
+                <fontSize>12</fontSize>
+                <origin x="312" y="190" />
+                <size width="60" height="42" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>收到日期</text>
+                <fontSize>12</fontSize>
+                <origin x="372" y="190" />
+                <size width="88" height="42" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>备   注</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="512" />
+                <size width="120" height="72" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>注：（1）如受送达人不在场的，可交其同住的成年家属签收，并且在备注栏中写明与</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="584" />
+                <size width="460" height="20" />
+                <alignment>Left</alignment>
+            </Text>
+            
+            <Text>
+                <text>受送达人的关系。</text>
+                <fontSize>12</fontSize>
+                <origin x="54" y="604" />
+                <size width="406" height="20" />
+                <alignment>Left</alignment>
+            </Text>
+            
+            <Text>
+                <text>（2）受送达人已经指定代收人的，交代收人签收。</text>
+                <fontSize>12</fontSize>
+                <origin x="24" y="624" />
+                <size width="436" height="20" />
+                <alignment>Left</alignment>
+            </Text>
+            
+            <Text>
+                <text>（3）受送达人拒绝签收的，送达人应当邀请有关基层组织的代表或其他人员到</text>
+                <fontSize>12</fontSize>
+                <origin x="24" y="644" />
+                <size width="436" height="20" />
+                <alignment>Left</alignment>
+            </Text>
+            
+            <Text>
+                <text>场，说明情况，在备注中写明拒收事由，并将文书留置，视为已送达。</text>
+                <fontSize>12</fontSize>
+                <origin x="54" y="664" />
+                <size width="406" height="20" />
+                <alignment>Left</alignment>
+            </Text>
+            
+            <Text>
+                <text>（4）受送达人为单位的，应送达单位负责人、收发室、办公室。</text>
+                <fontSize>12</fontSize>
+                <origin x="24" y="684" />
+                <size width="436" height="20" />
+                <alignment>Left</alignment>
+            </Text>
+        </Texts>
+    </StaticTable>
+    <DataTable>        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="84" y="70" />
+            <size width="376" height="40" />
+            <alignment>Left</alignment>
+            <staticPrefix>　</staticPrefix>
+            <content>
+                <!--$F{incepter_name}-->
+                <data>
+                    <attributeName>incepter_name</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="84" y="110" />
+            <size width="376" height="40" />
+            <alignment>Left</alignment>
+            <staticPrefix>　</staticPrefix>
+            <content>
+                <!--$F{reason}-->
+                <data>
+                    <attributeName>reason</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="84" y="150" />
+            <size width="376" height="40" />
+            <alignment>Left</alignment>
+            <staticPrefix>　</staticPrefix>
+            <content>
+                <!--$F{service_company}-->
+                <data>
+                    <attributeName>service_company</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="120" y="512" />
+            <size width="340" height="72" />
+            <alignment>Left</alignment>
+            <staticPrefix>　</staticPrefix>
+            <content>
+                <!--$F{remark}-->
+                <data>
+                    <attributeName>remark</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <SubTable>
+            <origin x="0" y="232" />
+            <size width="460" height="280" />
+        </SubTable>
+    </DataTable>
+</ServiceReceiptTable>

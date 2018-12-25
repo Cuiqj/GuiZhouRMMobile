@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CaseSampleTable>
+    <Paper size="A4" width="595" height="842">
+        <!--定义纸张边距，上，左，右，下-->
+        <Margin top="70"  left="70" right="65" bottom="65" />
+    </Paper>
+    <StaticTable>
+        <Lines>
+            <defaultLineWidth>0.5</defaultLineWidth>
+            <line x1="0" y1="32" x2="460" y2="32" />
+            
+            <line x1="132" y1="68" x2="460" y2="68" />
+            
+            <line x1="120" y1="96" x2="252" y2="96" />
+            
+            <line x1="324" y1="96" x2="460" y2="96" />
+            
+            <line x1="48" y1="124" x2="312" y2="124" />
+            
+            <line x1="372" y1="124" x2="460" y2="124" />
+            
+            <line x1="84" y1="152" x2="132" y2="152" />
+            
+            <line x1="144" y1="152" x2="168" y2="152" />
+            
+            <line x1="180" y1="152" x2="204" y2="152" />
+            
+            <line x1="216" y1="152" x2="240" y2="152" />
+            
+            <line x1="252" y1="152" x2="276" y2="152" />
+            
+            <line x1="312" y1="152" x2="336" y2="152" />
+            
+            <line x1="348" y1="152" x2="372" y2="152" />
+            
+            <line x1="384" y1="152" x2="408" y2="152" />
+            
+            <line x1="420" y1="152" x2="444" y2="152" />
+            
+            <line x1="84" y1="180" x2="460" y2="180" />
+            
+            <line x1="84" y1="208" x2="276" y2="208" />
+            
+            <line x1="336" y1="208" x2="460" y2="208" />
+            
+            <line x1="0" y1="264" x2="36" y2="264" />
+            
+            <line x1="0" y1="264" x2="0" y2="292" />
+            
+            <line x1="36" y1="264" x2="204" y2="264" />
+            
+            <line x1="36" y1="264" x2="36" y2="292" />
+            
+            <line x1="36" y1="264" x2="36" y2="292" />
+            
+            <line x1="204" y1="264" x2="276" y2="264" />
+            
+            <line x1="204" y1="264" x2="204" y2="292" />
+            
+            <line x1="204" y1="264" x2="204" y2="292" />
+            
+            <line x1="276" y1="264" x2="336" y2="264" />
+            
+            <line x1="276" y1="264" x2="276" y2="292" />
+            
+            <line x1="276" y1="264" x2="276" y2="292" />
+            
+            <line x1="336" y1="264" x2="460" y2="264" />
+            
+            <line x1="336" y1="264" x2="336" y2="292" />
+            
+            <line x1="336" y1="264" x2="336" y2="292" />
+            
+            <line x1="460" y1="264" x2="460" y2="292" />
+            
+            <line x1="0" y1="292" x2="36" y2="292" />
+            
+            <line x1="36" y1="292" x2="204" y2="292" />
+            
+            <line x1="204" y1="292" x2="276" y2="292" />
+            
+            <line x1="276" y1="292" x2="336" y2="292" />
+            
+            <line x1="336" y1="292" x2="460" y2="292" />
+            
+            <line x1="84" y1="498" x2="216" y2="498" />
+            
+            <line x1="288" y1="498" x2="444" y2="498" />
+            
+            <line x1="84" y1="522" x2="216" y2="522" />
+            
+            <line x1="288" y1="522" x2="444" y2="522" />
+            
+            <line x1="168" y1="556" x2="372" y2="556" />
+            
+            <line x1="48" y1="642" x2="460" y2="642" />
+            
+            <rect x1="0" y1="292" x2="36" y2="320" />
+            
+            <rect x1="36" y1="292" x2="204" y2="320" />
+            
+            <rect x1="204" y1="292" x2="276" y2="320" />
+            
+            <rect x1="276" y1="292" x2="336" y2="320" />
+            
+            <rect x1="336" y1="292" x2="460" y2="320" />
+            
+            <rect x1="0" y1="320" x2="36" y2="348" />
+            
+            <rect x1="36" y1="320" x2="204" y2="348" />
+            
+            <rect x1="204" y1="320" x2="276" y2="348" />
+            
+            <rect x1="276" y1="320" x2="336" y2="348" />
+            
+            <rect x1="336" y1="320" x2="460" y2="348" />
+            
+            <rect x1="0" y1="348" x2="36" y2="376" />
+            
+            <rect x1="36" y1="348" x2="204" y2="376" />
+            
+            <rect x1="204" y1="348" x2="276" y2="376" />
+            
+            <rect x1="276" y1="348" x2="336" y2="376" />
+            
+            <rect x1="336" y1="348" x2="460" y2="376" />
+            
+            <rect x1="0" y1="376" x2="36" y2="404" />
+            
+            <rect x1="36" y1="376" x2="204" y2="404" />
+            
+            <rect x1="204" y1="376" x2="276" y2="404" />
+            
+            <rect x1="276" y1="376" x2="336" y2="404" />
+            
+            <rect x1="336" y1="376" x2="460" y2="404" />
+            
+            <rect x1="0" y1="404" x2="36" y2="432" />
+            
+            <rect x1="36" y1="404" x2="204" y2="432" />
+            
+            <rect x1="204" y1="404" x2="276" y2="432" />
+            
+            <rect x1="276" y1="404" x2="336" y2="432" />
+            
+            <rect x1="336" y1="404" x2="460" y2="432" />
+            
+            <rect x1="0" y1="432" x2="36" y2="460" />
+            
+            <rect x1="36" y1="432" x2="204" y2="460" />
+            
+            <rect x1="204" y1="432" x2="276" y2="460" />
+            
+            <rect x1="276" y1="432" x2="336" y2="460" />
+            
+            <rect x1="336" y1="432" x2="460" y2="460" />
+        </Lines>
+        <Title>
+            <Text>
+                <text>抽 样 取 证 凭 证</text>
+                <fontSize>22</fontSize>
+                <origin x="0" y="0" />
+                <size width="460" height="32" />
+                <alignment>Center</alignment>
+            </Text>
+        </Title>
+        <Texts>            
+            <Text>
+                <text>被抽样取证人（单位）：</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="40" />
+                <size width="132" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>法定代表人或负责人：</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="68" />
+                <size width="120" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>现场负责人：</text>
+                <fontSize>12</fontSize>
+                <origin x="252" y="68" />
+                <size width="72" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>地  址：</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="96" />
+                <size width="48" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>联系电话：</text>
+                <fontSize>12</fontSize>
+                <origin x="312" y="96" />
+                <size width="60" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>抽样取证时间：</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="124" />
+                <size width="84" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>年</text>
+                <fontSize>12</fontSize>
+                <origin x="132" y="124" />
+                <size width="12" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>月</text>
+                <fontSize>12</fontSize>
+                <origin x="168" y="124" />
+                <size width="12" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>日</text>
+                <fontSize>12</fontSize>
+                <origin x="204" y="124" />
+                <size width="12" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>时</text>
+                <fontSize>12</fontSize>
+                <origin x="240" y="124" />
+                <size width="12" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>分至</text>
+                <fontSize>12</fontSize>
+                <origin x="276" y="124" />
+                <size width="36" height="28" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>月</text>
+                <fontSize>12</fontSize>
+                <origin x="336" y="124" />
+                <size width="12" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>日</text>
+                <fontSize>12</fontSize>
+                <origin x="372" y="124" />
+                <size width="12" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>时</text>
+                <fontSize>12</fontSize>
+                <origin x="408" y="124" />
+                <size width="12" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>分</text>
+                <fontSize>12</fontSize>
+                <origin x="444" y="124" />
+                <size width="16" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>抽样取证地点：</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="152" />
+                <size width="84" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>抽样取证机关：</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="180" />
+                <size width="84" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>联系电话：</text>
+                <fontSize>12</fontSize>
+                <origin x="276" y="180" />
+                <size width="60" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>依据《中华人民共和国行政处罚法》第三十七条第二款规定，需对你（单位）的下</text>
+                <fontSize>12</fontSize>
+                <origin x="24" y="208" />
+                <size width="436" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>列物品进行抽样取证。</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="236" />
+                <size width="460" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>序号</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="264" />
+                <size width="36" height="28" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>被抽样物品名称</text>
+                <fontSize>12</fontSize>
+                <origin x="36" y="264" />
+                <size width="168" height="28" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>规格及批号</text>
+                <fontSize>12</fontSize>
+                <origin x="204" y="264" />
+                <size width="72" height="28" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>数量</text>
+                <fontSize>12</fontSize>
+                <origin x="276" y="264" />
+                <size width="60" height="28" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>被抽样物品地点</text>
+                <fontSize>12</fontSize>
+                <origin x="336" y="264" />
+                <size width="124" height="28" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>执法人员签名：</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="474" />
+                <size width="84" height="24" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>执法证号：</text>
+                <fontSize>12</fontSize>
+                <origin x="228" y="474" />
+                <size width="60" height="24" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>执法证号：</text>
+                <fontSize>12</fontSize>
+                <origin x="228" y="498" />
+                <size width="60" height="24" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>被抽样取证人或其代理人签名：</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="532" />
+                <size width="168" height="24" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>年</text>
+                <fontSize>12</fontSize>
+                <origin x="312" y="568" />
+                <size width="12" height="24" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>月</text>
+                <fontSize>12</fontSize>
+                <origin x="372" y="568" />
+                <size width="12" height="24" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>日</text>
+                <fontSize>12</fontSize>
+                <origin x="432" y="568" />
+                <size width="12" height="24" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>备  注：</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="618" />
+                <size width="48" height="24" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>（本文书一式两份，一份留存，一份交被抽样取证人或其代理人。）</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="642" />
+                <size width="460" height="24" />
+                <alignment>Center</alignment>
+            </Text>
+        </Texts>
+    </StaticTable>
+    <DataTable>        
+       	<UITextField>
+            <fontSize>12</fontSize>
+            <origin x="132" y="40" />
+            <size width="328" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{name}-->
+                <data>
+                    <attributeName>name</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="120" y="68" />
+            <size width="132" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{legal_person}-->
+                <data>
+                    <attributeName>legal_person</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="324" y="68" />
+            <size width="136" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{taking_names}-->
+                <data>
+                    <attributeName>taking_names</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="48" y="96" />
+            <size width="264" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{address}-->
+                <data>
+                    <attributeName>address</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="372" y="96" />
+            <size width="88" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{phone}-->
+                <data>
+                    <attributeName>phone</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="84" y="124" />
+            <size width="48" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{date_sample_start}-->
+                <data>
+                    <attributeName>date_sample_start</attributeName>
+                    <mode>yyyy</mode>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="144" y="124" />
+            <size width="24" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{date_sample_start}-->
+                <data>
+                    <attributeName>date_sample_start</attributeName>
+                    <mode>MM</mode>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="180" y="124" />
+            <size width="24" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{date_sample_start}-->
+                <data>
+                    <attributeName>date_sample_start</attributeName>
+                    <mode>dd</mode>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="216" y="124" />
+            <size width="24" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{date_sample_start}-->
+                <data>
+                    <attributeName>date_sample_start</attributeName>
+                    <mode>HH</mode>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="252" y="124" />
+            <size width="24" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{date_sample_start}-->
+                <data>
+                    <attributeName>date_sample_start</attributeName>
+                    <mode>mm</mode>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="312" y="124" />
+            <size width="24" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{date_sample_end}-->
+                <data>
+                    <attributeName>date_sample_end</attributeName>
+                    <mode>MM</mode>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="348" y="124" />
+            <size width="24" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{date_sample_end}-->
+                <data>
+                    <attributeName>date_sample_end</attributeName>
+                    <mode>dd</mode>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="384" y="124" />
+            <size width="24" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{date_sample_end}-->
+                <data>
+                    <attributeName>date_sample_end</attributeName>
+                    <mode>HH</mode>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="420" y="124" />
+            <size width="24" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{date_sample_end}-->
+                <data>
+                    <attributeName>date_sample_end</attributeName>
+                    <mode>mm</mode>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="84" y="152" />
+            <size width="376" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{place}-->
+                <data>
+                    <attributeName>place</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="84" y="180" />
+            <size width="192" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{taking_company}-->
+                <data>
+                    <attributeName>taking_company</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="336" y="180" />
+            <size width="124" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{taking_company_tel}-->
+                <data>
+                    <attributeName>taking_company_tel</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="240" y="568" />
+            <size width="72" height="24" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{ch_date_year}-->
+                <data>
+                    <attributeName>send_date</attributeName>
+                    <mode>yyyy</mode>
+                    <!--判断是否输出中文日期，必须和mode联用，单独取出年份或者月日数字，否则转换不正常-->
+                    <isCHDate>1</isCHDate>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="324" y="568" />
+            <size width="48" height="24" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{ch_date_month}-->
+                <data>
+                    <attributeName>send_date</attributeName>
+                    <mode>MM</mode>
+                    <!--判断是否输出中文日期，必须和mode联用，单独取出年份或者月日数字，否则转换不正常-->
+                    <isCHDate>1</isCHDate>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="384" y="568" />
+            <size width="48" height="24" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{ch_date_day}-->
+                <data>
+                    <attributeName>send_date</attributeName>
+                    <mode>dd</mode>
+                    <!--判断是否输出中文日期，必须和mode联用，单独取出年份或者月日数字，否则转换不正常-->
+                    <isCHDate>1</isCHDate>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="48" y="618" />
+            <size width="412" height="24" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{case_sample_reason}-->
+                <data>
+                    <attributeName>case_sample_reason</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <SubTable>
+            <origin x="0" y="292" />
+            <size width="460" height="168" />
+        </SubTable>
+    </DataTable>
+</CaseSampleTable>

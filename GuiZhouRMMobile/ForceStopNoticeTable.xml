@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ForceNoticeTable>
+    <!--所有尺寸单位以像素计算-->
+    <!--定义纸张尺寸-->
+    <Paper size="A4" width="595" height="842">
+        <!--定义纸张边距，上，左，右，下-->
+        <Margin top="70"  left="70" right="65" bottom="65" />
+    </Paper>
+    <!--所有缺省设置元素，default*之类均必不可少-->
+    <!--固定表格-->
+    <StaticTable>
+        <Lines>
+            <!--默认线宽-->
+            <defaultLineWidth>0.5</defaultLineWidth>
+            <!--直线两点位置坐标必不可少，线宽linewidth为可选配置参数-->
+            <!--上线-->            
+            <line x1="266" y1="83" x2="322" y2="83" />
+            
+            <line x1="392" y1="83" x2="434" y2="83" />
+            
+            <line x1="0" y1="139" x2="210" y2="139" />
+            
+            <line x1="84" y1="169" x2="460" y2="169" />
+            
+            <line x1="0" y1="199" x2="460" y2="199" />
+            
+            <line x1="0" y1="231" x2="460" y2="231" />
+            
+            <line x1="98" y1="261" x2="460" y2="261" />
+            
+            <line x1="0" y1="291" x2="460" y2="291" />
+            
+            <line x1="0" y1="323" x2="392" y2="323" />
+            
+            <line x1="154" y1="383" x2="210" y2="383" />
+            
+            <line x1="224" y1="383" x2="266" y2="383" />
+            
+            <line x1="280" y1="383" x2="322" y2="383" />
+            
+            <line x1="98" y1="644" x2="460" y2="644" />
+            
+            <line x1="56" y1="672" x2="196" y2="672" />
+            
+            <line x1="280" y1="672" x2="460" y2="672" />
+            
+            <line x1="0" y1="686" x2="460" y2="686" />
+        </Lines>
+        <Title>
+            <Text>
+                <text>责令停止（改正）违法行为通知书</text>
+                <fontSize>22</fontSize>
+                <origin x="0" y="0" />
+                <size width="460" height="40" />
+                <alignment>Center</alignment>
+            </Text>
+        </Title>
+        <Texts>            
+            <Text>
+                <text>案号：</text>
+                <fontSize>14</fontSize>
+                <origin x="224" y="55" />
+                <size width="42" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>改[</text>
+                <fontSize>14</fontSize>
+                <origin x="322" y="55" />
+                <size width="28" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>]</text>
+                <fontSize>14</fontSize>
+                <origin x="378" y="55" />
+                <size width="14" height="28" />
+                <alignment>Right</alignment>
+            </Text>
+            
+            <Text>
+                <text>号</text>
+                <fontSize>14</fontSize>
+                <origin x="434" y="55" />
+                <size width="14" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>：</text>
+                <fontSize>14</fontSize>
+                <origin x="210" y="107" />
+                <size width="14" height="32" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>经查，你</text>
+                <fontSize>14</fontSize>
+                <origin x="28" y="139" />
+                <size width="56" height="30" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>的行为，违反了</text>
+                <fontSize>14</fontSize>
+                <origin x="0" y="231" />
+                <size width="98" height="30" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>的规定。</text>
+                <fontSize>14</fontSize>
+                <origin x="392" y="291" />
+                <size width="68" height="32" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>依据《中华人民共和国行政处罚法》第二十三条的规定，现责令你立即停</text>
+                <fontSize>14</fontSize>
+                <origin x="0" y="323" />
+                <size width="460" height="30" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>止、改正违法行为，并于</text>
+                <fontSize>14</fontSize>
+                <origin x="0" y="353" />
+                <size width="154" height="30" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>年</text>
+                <fontSize>14</fontSize>
+                <origin x="210" y="353" />
+                <size width="14" height="30" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>月</text>
+                <fontSize>14</fontSize>
+                <origin x="266" y="353" />
+                <size width="14" height="30" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>日前到本交通行政执</text>
+                <fontSize>14</fontSize>
+                <origin x="322" y="353" />
+                <size width="138" height="30" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>法机构接受调查处理。逾期不接受调查处理和停止、改正违法行为，将依</text>
+                <fontSize>14</fontSize>
+                <origin x="0" y="383" />
+                <size width="460" height="30" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>法查处。</text>
+                <fontSize>14</fontSize>
+                <origin x="0" y="413" />
+                <size width="460" height="30" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>特此通知</text>
+                <fontSize>14</fontSize>
+                <origin x="28" y="443" />
+                <size width="432" height="30" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>年</text>
+                <fontSize>14</fontSize>
+                <origin x="294" y="513" />
+                <size width="14" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>月</text>
+                <fontSize>14</fontSize>
+                <origin x="364" y="513" />
+                <size width="14" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>日</text>
+                <fontSize>14</fontSize>
+                <origin x="434" y="513" />
+                <size width="14" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>执法机构地址：</text>
+                <fontSize>14</fontSize>
+                <origin x="0" y="616" />
+                <size width="98" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>联系人：</text>
+                <fontSize>14</fontSize>
+                <origin x="0" y="644" />
+                <size width="56" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>联系电话：</text>
+                <fontSize>14</fontSize>
+                <origin x="210" y="644" />
+                <size width="70" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>（本通知书一式两份，一份送交当事人或其代理人，一份留存）</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="686" />
+                <size width="460" height="21" />
+                <alignment>Center</alignment>
+            </Text>
+        </Texts>
+    </StaticTable>
+    <DataTable>
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="266" y="55" />
+            <size width="56" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{link_file_pre}-->
+                <data>
+                    <attributeName>file_pre</attributeName>
+                    <entityName>CaseInfo</entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="350" y="55" />
+            <size width="28" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{link_yearno}-->
+                <data>
+                    <attributeName>case_mark2</attributeName>
+                    <entityName>CaseInfo</entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="392" y="55" />
+            <size width="42" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{link_caseno}-->
+                <data>
+                    <attributeName>case_mark3</attributeName>
+                    <entityName>CaseInfo</entityName>
+                </data>
+            </content>
+        </UITextField>
+                
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="0" y="107" />
+            <size width="210" height="32" />
+            <alignment>Left</alignment>
+            <content>
+                <!--$F{party}-->
+                <data>
+                    <attributeName>dsrname</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextView>
+            <fontSize>14</fontSize>
+            <origin x="0" y="134" />
+            <size width="460" height="93" />
+            <alignment>Left</alignment>
+            <leftOffSet>110</leftOffSet>
+            <lineHeight>31</lineHeight>
+            <content>
+                <data>
+                    <attributeName>fact</attributeName>
+                </data>
+            </content>
+        </UITextView>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="98" y="231" />
+            <size width="362" height="30" />
+            <alignment>Left</alignment>
+            <staticPrefix>　</staticPrefix>
+            <content>
+                <!--"  "+$P{REPORT_SCRIPTLET}.getLines($F{break_law},24,32,3)[0]-->
+                <data>
+                    <attributeName>break_law</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+            <!--字符分行设置，四个参数分别为，第一行字符数，第二行字符数，总行数，当前行序号-->
+            <!--与truncContent元素冲突，优先读取textByLine，在无textByLine时才读取truncContent元素-->
+            <textByLine line1CharCount = "24" line2CharCount = "32" lineCount = "3" lineIndex = "0" />
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="0" y="261" />
+            <size width="460" height="30" />
+            <alignment>Left</alignment>
+            <content>
+                <!--$P{REPORT_SCRIPTLET}.getLines($F{break_law},24,32,3)[1]-->
+                <data>
+                    <attributeName>break_law</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+            <!--字符分行设置，四个参数分别为，第一行字符数，第二行字符数，总行数，当前行序号-->
+            <!--与truncContent元素冲突，优先读取textByLine，在无textByLine时才读取truncContent元素-->
+            <textByLine line1CharCount = "24" line2CharCount = "32" lineCount = "3" lineIndex = "1" />
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="0" y="291" />
+            <size width="392" height="32" />
+            <alignment>Left</alignment>
+            <content>
+                <!--$P{REPORT_SCRIPTLET}.getLines($F{break_law},24,32,3)[2]-->
+                <data>
+                    <attributeName>break_law</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+            <!--字符分行设置，四个参数分别为，第一行字符数，第二行字符数，总行数，当前行序号-->
+            <!--与truncContent元素冲突，优先读取textByLine，在无textByLine时才读取truncContent元素-->
+            <textByLine line1CharCount = "24" line2CharCount = "32" lineCount = "3" lineIndex = "2" />
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="154" y="353" />
+            <size width="56" height="30" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{handle_time}-->
+                <data>
+                    <attributeName>handle_time</attributeName>
+                    <mode>yyyy</mode>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="224" y="353" />
+            <size width="42" height="30" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{handle_time}-->
+                <data>
+                    <attributeName>handle_time</attributeName>
+                    <mode>MM</mode>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="280" y="353" />
+            <size width="42" height="30" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{handle_time}-->
+                <data>
+                    <attributeName>handle_time</attributeName>
+                    <mode>dd</mode>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="224" y="513" />
+            <size width="70" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{ch_date_year}-->
+                <data>
+                    <attributeName>date_send</attributeName>
+                    <mode>yyyy</mode>
+                    <!--判断是否输出中文日期，必须和mode联用，单独取出年份或者月日数字，否则转换不正常-->
+                    <isCHDate>1</isCHDate>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="308" y="513" />
+            <size width="56" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{ch_date_month}-->
+                <data>
+                    <attributeName>date_send</attributeName>
+                    <mode>MM</mode>
+                    <!--判断是否输出中文日期，必须和mode联用，单独取出年份或者月日数字，否则转换不正常-->
+                    <isCHDate>1</isCHDate>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="378" y="513" />
+            <size width="56" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{ch_date_day}-->
+                <data>
+                    <attributeName>date_send</attributeName>
+                    <mode>dd</mode>
+                    <!--判断是否输出中文日期，必须和mode联用，单独取出年份或者月日数字，否则转换不正常-->
+                    <isCHDate>1</isCHDate>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="98" y="616" />
+            <size width="362" height="28" />
+            <alignment>Left</alignment>
+            <content>
+                <!--$F{linkAddress}-->
+                <data>
+                    <attributeName>linkAddress</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="56" y="644" />
+            <size width="140" height="28" />
+            <alignment>Left</alignment>
+            <content>
+                <!--$F{linkMan}-->
+                <data>
+                    <attributeName>linkMan</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="280" y="644" />
+            <size width="180" height="28" />
+            <alignment>Left</alignment>
+            <content>
+                <!--$F{linkTel}-->
+                <data>
+                    <attributeName>linkTel</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+    </DataTable>
+</ForceNoticeTable>

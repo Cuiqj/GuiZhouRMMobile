@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CaseCountTable2>
+    <Paper size="A4" width="595" height="842">
+        <!--定义纸张边距，上，左，右，下-->
+        <Margin top="70"  left="70" right="65" bottom="65" />
+    </Paper>
+    <StaticTable>
+        <Lines>
+            <defaultLineWidth>0.5</defaultLineWidth>
+            <line x1="0" y1="51" x2="84" y2="51" />
+            
+            <line x1="0" y1="51" x2="0" y2="99" />
+            
+            <line x1="84" y1="51" x2="460" y2="51" />
+            
+            <line x1="84" y1="51" x2="84" y2="99" />
+            
+            <line x1="84" y1="51" x2="84" y2="99" />
+            
+            <line x1="460" y1="51" x2="460" y2="99" />
+            
+            <line x1="0" y1="99" x2="84" y2="99" />
+            
+            <line x1="0" y1="99" x2="84" y2="99" />
+            
+            <line x1="0" y1="99" x2="0" y2="131" />
+            
+            <line x1="84" y1="99" x2="460" y2="99" />
+            
+            <line x1="84" y1="99" x2="154" y2="99" />
+            
+            <line x1="84" y1="99" x2="84" y2="131" />
+            
+            <line x1="154" y1="99" x2="168" y2="99" />
+            
+            <line x1="168" y1="99" x2="210" y2="99" />
+            
+            <line x1="210" y1="99" x2="224" y2="99" />
+            
+            <line x1="224" y1="99" x2="266" y2="99" />
+            
+            <line x1="266" y1="99" x2="460" y2="99" />
+            
+            <line x1="460" y1="99" x2="460" y2="131" />
+            
+            <line x1="0" y1="131" x2="84" y2="131" />
+            
+            <line x1="0" y1="131" x2="84" y2="131" />
+            
+            <line x1="0" y1="131" x2="0" y2="163" />
+            
+            <line x1="84" y1="131" x2="460" y2="131" />
+            
+            <line x1="84" y1="131" x2="154" y2="131" />
+            
+            <line x1="84" y1="131" x2="84" y2="163" />
+            
+            <line x1="84" y1="131" x2="84" y2="163" />
+            
+            <line x1="154" y1="131" x2="168" y2="131" />
+            
+            <line x1="168" y1="131" x2="210" y2="131" />
+            
+            <line x1="210" y1="131" x2="224" y2="131" />
+            
+            <line x1="224" y1="131" x2="266" y2="131" />
+            
+            <line x1="266" y1="131" x2="460" y2="131" />
+            
+            <line x1="460" y1="131" x2="460" y2="163" />
+            
+            <line x1="0" y1="163" x2="84" y2="163" />
+            
+            <line x1="0" y1="163" x2="84" y2="163" />
+            
+            <line x1="0" y1="163" x2="0" y2="211" />
+            
+            <line x1="84" y1="163" x2="460" y2="163" />
+            
+            <line x1="84" y1="163" x2="252" y2="163" />
+            
+            <line x1="84" y1="163" x2="84" y2="211" />
+            
+            <line x1="84" y1="163" x2="84" y2="211" />
+            
+            <line x1="252" y1="163" x2="322" y2="163" />
+            
+            <line x1="252" y1="163" x2="252" y2="211" />
+            
+            <line x1="252" y1="163" x2="252" y2="211" />
+            
+            <line x1="322" y1="163" x2="460" y2="163" />
+            
+            <line x1="322" y1="163" x2="322" y2="211" />
+            
+            <line x1="322" y1="163" x2="322" y2="211" />
+            
+            <line x1="460" y1="163" x2="460" y2="211" />
+            
+            <line x1="0" y1="211" x2="84" y2="211" />
+            
+            <line x1="0" y1="211" x2="84" y2="211" />
+            
+            <line x1="0" y1="211" x2="0" y2="243" />
+            
+            <line x1="84" y1="211" x2="252" y2="211" />
+            
+            <line x1="84" y1="211" x2="252" y2="211" />
+            
+            <line x1="84" y1="211" x2="84" y2="243" />
+            
+            <line x1="84" y1="211" x2="84" y2="243" />
+            
+            <line x1="252" y1="211" x2="322" y2="211" />
+            
+            <line x1="252" y1="211" x2="322" y2="211" />
+            
+            <line x1="252" y1="211" x2="252" y2="243" />
+            
+            <line x1="252" y1="211" x2="252" y2="243" />
+            
+            <line x1="322" y1="211" x2="460" y2="211" />
+            
+            <line x1="322" y1="211" x2="460" y2="211" />
+            
+            <line x1="322" y1="211" x2="322" y2="243" />
+            
+            <line x1="322" y1="211" x2="322" y2="243" />
+            
+            <line x1="460" y1="211" x2="460" y2="243" />
+            
+            <line x1="0" y1="243" x2="28" y2="243" />
+            
+            <line x1="0" y1="243" x2="84" y2="243" />
+            
+            <line x1="0" y1="243" x2="0" y2="281" />
+            
+            <line x1="28" y1="243" x2="154" y2="243" />
+            
+            <line x1="28" y1="243" x2="28" y2="281" />
+            
+            <line x1="28" y1="243" x2="28" y2="281" />
+            
+            <line x1="84" y1="243" x2="252" y2="243" />
+            
+            <line x1="154" y1="243" x2="224" y2="243" />
+            
+            <line x1="154" y1="243" x2="154" y2="281" />
+            
+            <line x1="154" y1="243" x2="154" y2="281" />
+            
+            <line x1="224" y1="243" x2="266" y2="243" />
+            
+            <line x1="224" y1="243" x2="224" y2="281" />
+            
+            <line x1="224" y1="243" x2="224" y2="281" />
+            
+            <line x1="252" y1="243" x2="322" y2="243" />
+            
+            <line x1="266" y1="243" x2="308" y2="243" />
+            
+            <line x1="266" y1="243" x2="266" y2="281" />
+            
+            <line x1="266" y1="243" x2="266" y2="281" />
+            
+            <line x1="308" y1="243" x2="378" y2="243" />
+            
+            <line x1="308" y1="243" x2="308" y2="281" />
+            
+            <line x1="308" y1="243" x2="308" y2="281" />
+            
+            <line x1="322" y1="243" x2="460" y2="243" />
+            
+            <line x1="378" y1="243" x2="460" y2="243" />
+            
+            <line x1="378" y1="243" x2="378" y2="281" />
+            
+            <line x1="378" y1="243" x2="378" y2="281" />
+            
+            <line x1="460" y1="243" x2="460" y2="281" />
+            
+            <line x1="0" y1="281" x2="28" y2="281" />
+            
+            <line x1="28" y1="281" x2="154" y2="281" />
+            
+            <line x1="154" y1="281" x2="224" y2="281" />
+            
+            <line x1="224" y1="281" x2="266" y2="281" />
+            
+            <line x1="266" y1="281" x2="308" y2="281" />
+            
+            <line x1="308" y1="281" x2="378" y2="281" />
+            
+            <line x1="378" y1="281" x2="460" y2="281" />
+            
+            <line x1="0" y1="505" x2="84" y2="505" />
+            
+            <line x1="0" y1="505" x2="0" y2="544" />
+            
+            <line x1="84" y1="505" x2="126" y2="505" />
+            
+            <line x1="84" y1="505" x2="84" y2="544" />
+            
+            <line x1="84" y1="505" x2="84" y2="544" />
+            
+            <line x1="126" y1="505" x2="322" y2="505" />
+            
+            <line x1="322" y1="505" x2="364" y2="505" />
+            
+            <line x1="364" y1="505" x2="434" y2="505" />
+            
+            <line x1="434" y1="505" x2="460" y2="505" />
+            
+            <line x1="460" y1="505" x2="460" y2="544" />
+            
+            <line x1="0" y1="544" x2="84" y2="544" />
+            
+            <line x1="0" y1="544" x2="84" y2="544" />
+            
+            <line x1="0" y1="544" x2="0" y2="592" />
+            
+            <line x1="84" y1="544" x2="126" y2="544" />
+            
+            <line x1="84" y1="544" x2="460" y2="544" />
+            
+            <line x1="84" y1="544" x2="84" y2="592" />
+            
+            <line x1="84" y1="544" x2="84" y2="592" />
+            
+            <line x1="126" y1="544" x2="322" y2="544" />
+            
+            <line x1="322" y1="544" x2="364" y2="544" />
+            
+            <line x1="364" y1="544" x2="434" y2="544" />
+            
+            <line x1="434" y1="544" x2="460" y2="544" />
+            
+            <line x1="460" y1="544" x2="460" y2="592" />
+            
+            <line x1="0" y1="592" x2="84" y2="592" />
+            
+            <line x1="84" y1="592" x2="460" y2="592" />
+            
+            <rect x1="0" y1="281" x2="28" y2="313" />
+            
+            <rect x1="28" y1="281" x2="154" y2="313" />
+            
+            <rect x1="154" y1="281" x2="224" y2="313" />
+            
+            <rect x1="224" y1="281" x2="266" y2="313" />
+            
+            <rect x1="266" y1="281" x2="308" y2="313" />
+            
+            <rect x1="308" y1="281" x2="378" y2="313" />
+            
+            <rect x1="378" y1="281" x2="460" y2="313" />
+            
+            <rect x1="0" y1="313" x2="28" y2="345" />
+            
+            <rect x1="28" y1="313" x2="154" y2="345" />
+            
+            <rect x1="154" y1="313" x2="224" y2="345" />
+            
+            <rect x1="224" y1="313" x2="266" y2="345" />
+            
+            <rect x1="266" y1="313" x2="308" y2="345" />
+            
+            <rect x1="308" y1="313" x2="378" y2="345" />
+            
+            <rect x1="378" y1="313" x2="460" y2="345" />
+            
+            <rect x1="0" y1="345" x2="28" y2="377" />
+            
+            <rect x1="28" y1="345" x2="154" y2="377" />
+            
+            <rect x1="154" y1="345" x2="224" y2="377" />
+            
+            <rect x1="224" y1="345" x2="266" y2="377" />
+            
+            <rect x1="266" y1="345" x2="308" y2="377" />
+            
+            <rect x1="308" y1="345" x2="378" y2="377" />
+            
+            <rect x1="378" y1="345" x2="460" y2="377" />
+            
+            <rect x1="0" y1="377" x2="28" y2="409" />
+            
+            <rect x1="28" y1="377" x2="154" y2="409" />
+            
+            <rect x1="154" y1="377" x2="224" y2="409" />
+            
+            <rect x1="224" y1="377" x2="266" y2="409" />
+            
+            <rect x1="266" y1="377" x2="308" y2="409" />
+            
+            <rect x1="308" y1="377" x2="378" y2="409" />
+            
+            <rect x1="378" y1="377" x2="460" y2="409" />
+            
+            <rect x1="0" y1="409" x2="28" y2="441" />
+            
+            <rect x1="28" y1="409" x2="154" y2="441" />
+            
+            <rect x1="154" y1="409" x2="224" y2="441" />
+            
+            <rect x1="224" y1="409" x2="266" y2="441" />
+            
+            <rect x1="266" y1="409" x2="308" y2="441" />
+            
+            <rect x1="308" y1="409" x2="378" y2="441" />
+            
+            <rect x1="378" y1="409" x2="460" y2="441" />
+            
+            <rect x1="0" y1="441" x2="28" y2="473" />
+            
+            <rect x1="28" y1="441" x2="154" y2="473" />
+            
+            <rect x1="154" y1="441" x2="224" y2="473" />
+            
+            <rect x1="224" y1="441" x2="266" y2="473" />
+            
+            <rect x1="266" y1="441" x2="308" y2="473" />
+            
+            <rect x1="308" y1="441" x2="378" y2="473" />
+            
+            <rect x1="378" y1="441" x2="460" y2="473" />
+            
+            <rect x1="0" y1="473" x2="28" y2="505" />
+            
+            <rect x1="28" y1="473" x2="154" y2="505" />
+            
+            <rect x1="154" y1="473" x2="224" y2="505" />
+            
+            <rect x1="224" y1="473" x2="266" y2="505" />
+            
+            <rect x1="266" y1="473" x2="308" y2="505" />
+            
+            <rect x1="308" y1="473" x2="378" y2="505" />
+            
+            <rect x1="378" y1="473" x2="460" y2="505" />
+        </Lines>
+        <Title>
+            <Text>
+                <text>公路路产损害赔（补）偿费计算表（续页）</text>
+                <fontSize>22</fontSize>
+                <origin x="0" y="0" />
+                <size width="460" height="36" />
+                <alignment>Center</alignment>
+            </Text>
+        </Title>
+        <Texts>            
+            <Text>
+                <text>案    由</text>
+                <fontSize>14</fontSize>
+                <origin x="0" y="51" />
+                <size width="84" height="48" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>案发时间</text>
+                <fontSize>14</fontSize>
+                <origin x="0" y="99" />
+                <size width="84" height="32" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>年</text>
+                <fontSize>14</fontSize>
+                <origin x="154" y="99" />
+                <size width="14" height="32" />
+                <alignment>Left</alignment>
+            </Text>
+            
+            <Text>
+                <text>月</text>
+                <fontSize>14</fontSize>
+                <origin x="210" y="99" />
+                <size width="14" height="32" />
+                <alignment>Left</alignment>
+            </Text>
+            
+            <Text>
+                <text>日</text>
+                <fontSize>14</fontSize>
+                <origin x="266" y="99" />
+                <size width="194" height="32" />
+                <alignment>Left</alignment>
+            </Text>
+            
+            <Text>
+                <text>案发地点</text>
+                <fontSize>14</fontSize>
+                <origin x="0" y="131" />
+                <size width="84" height="32" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>当事人</text>
+                <fontSize>14</fontSize>
+                <origin x="0" y="163" />
+                <size width="84" height="48" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>联系方式</text>
+                <fontSize>14</fontSize>
+                <origin x="252" y="163" />
+                <size width="70" height="48" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>车辆型号</text>
+                <fontSize>14</fontSize>
+                <origin x="0" y="211" />
+                <size width="84" height="32" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>车辆牌号</text>
+                <fontSize>14</fontSize>
+                <origin x="252" y="211" />
+                <size width="70" height="32" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>序号</text>
+                <fontSize>14</fontSize>
+                <origin x="0" y="243" />
+                <size width="28" height="38" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>损害路产项目名称</text>
+                <fontSize>14</fontSize>
+                <origin x="28" y="243" />
+                <size width="126" height="38" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>规格</text>
+                <fontSize>14</fontSize>
+                <origin x="154" y="243" />
+                <size width="70" height="38" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>计费单位</text>
+                <fontSize>14</fontSize>
+                <origin x="224" y="243" />
+                <size width="42" height="38" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>数量</text>
+                <fontSize>14</fontSize>
+                <origin x="266" y="243" />
+                <size width="42" height="38" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>赔偿标准单价（元）</text>
+                <fontSize>14</fontSize>
+                <origin x="308" y="243" />
+                <size width="70" height="38" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>金  额（元）</text>
+                <fontSize>14</fontSize>
+                <origin x="378" y="243" />
+                <size width="82" height="38" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>金额合计</text>
+                <fontSize>14</fontSize>
+                <origin x="0" y="505" />
+                <size width="84" height="39" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>大写：</text>
+                <fontSize>14</fontSize>
+                <origin x="84" y="505" />
+                <size width="42" height="39" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>（￥：</text>
+                <fontSize>14</fontSize>
+                <origin x="322" y="505" />
+                <size width="42" height="39" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>）</text>
+                <fontSize>14</fontSize>
+                <origin x="434" y="505" />
+                <size width="26" height="39" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>备    注</text>
+                <fontSize>14</fontSize>
+                <origin x="0" y="544" />
+                <size width="84" height="48" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>制 单：</text>
+                <fontSize>14</fontSize>
+                <origin x="14" y="592" />
+                <size width="56" height="28" />
+                <alignment>Left</alignment>
+            </Text>
+            
+            <Text>
+                <text>审 核：</text>
+                <fontSize>14</fontSize>
+                <origin x="224" y="592" />
+                <size width="56" height="28" />
+                <alignment>Left</alignment>
+            </Text>
+            
+            <Text>
+                <text>年</text>
+                <fontSize>14</fontSize>
+                <origin x="294" y="640" />
+                <size width="14" height="28" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>月</text>
+                <fontSize>14</fontSize>
+                <origin x="364" y="640" />
+                <size width="14" height="28" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>日</text>
+                <fontSize>14</fontSize>
+                <origin x="434" y="640" />
+                <size width="14" height="28" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>（本清单一式两份，一份交当事人，一份留存。）</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="686" />
+                <size width="460" height="21" />
+                <alignment>Center</alignment>
+            </Text>
+        </Texts>
+    </StaticTable>
+    <DataTable>        
+       	<UITextField>
+            <fontSize>14</fontSize>
+            <origin x="84" y="51" />
+            <size width="376" height="48" />
+            <alignment>Left</alignment>
+            <staticPrefix>　</staticPrefix>
+            <content>
+                <!--(($F{party}==null)?"":($F{party})) + (($F{caseCountReason}==null)?"":($F{caseCountReason}))-->
+                <data>
+                    <attributeName>party</attributeName>
+                    <entityName>Citizen</entityName>
+                </data>
+                <data>
+                    <attributeName>caseCountReason</attributeName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="84" y="99" />
+            <size width="70" height="32" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{happen_date}-->
+                <data>
+                    <attributeName>happen_date</attributeName>
+                    <mode>yyyy</mode>
+                    <entityName>CaseInfo</entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="168" y="99" />
+            <size width="42" height="32" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{happen_date}-->
+                <data>
+                    <attributeName>happen_date</attributeName>
+                    <mode>MM</mode>
+                    <entityName>CaseInfo</entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="224" y="99" />
+            <size width="42" height="32" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{happen_date}-->
+                <data>
+                    <attributeName>happen_date</attributeName>
+                    <mode>dd</mode>
+                    <entityName>CaseInfo</entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="84" y="131" />
+            <size width="376" height="32" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{case_address}-->
+                <data>
+                    <attributeName>case_address</attributeName>
+                    <entityName>CaseInfo</entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="84" y="163" />
+            <size width="168" height="48" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{party}-->
+                <data>
+                    <attributeName>party</attributeName>
+                    <entityName>Citizen</entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="322" y="163" />
+            <size width="138" height="48" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{tel_number}-->
+                <data>
+                    <attributeName>tel_number</attributeName>
+                    <entityName>Citizen</entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="84" y="211" />
+            <size width="168" height="32" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{automobile_pattern}-->
+                <data>
+                    <attributeName>automobile_pattern</attributeName>
+                    <entityName>Citizen</entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="322" y="211" />
+            <size width="138" height="32" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{automobile_number}-->
+                <data>
+                    <attributeName>automobile_number</attributeName>
+                    <entityName>Citizen</entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="126" y="505" />
+            <size width="196" height="39" />
+            <alignment>Left</alignment>
+            <content>
+                <!--$V{BigNumber}	此为变量，需通过运算得出-->
+                <data>
+                    <attributeName>case_citizen_info</attributeName>
+                    <entityName>CaseCount</entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <TotalPrice>
+            <fontSize>14</fontSize>
+            <origin x="364" y="505" />
+            <size width="70" height="39" />
+            <alignment>Center</alignment>
+            <mode>#,##0.00</mode>
+        </TotalPrice>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="84" y="544" />
+            <size width="376" height="48" />
+            <alignment>Left</alignment>
+            <content>
+                <!--$F{caseCountRemark}-->
+                <data>
+                    <attributeName>caseCountRemark</attributeName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="224" y="640" />
+            <size width="70" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{ch_date_year}-->
+                <data>
+                    <attributeName>caseCountSendDate</attributeName>
+                    <mode>yyyy</mode>
+                    <!--判断是否输出中文日期，必须和mode联用，单独取出年份或者月日数字，否则转换不正常-->
+                    <isCHDate>1</isCHDate>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="308" y="640" />
+            <size width="56" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{ch_date_month}-->
+                <data>
+                    <attributeName>caseCountSendDate</attributeName>
+                    <mode>MM</mode>
+                    <!--判断是否输出中文日期，必须和mode联用，单独取出年份或者月日数字，否则转换不正常-->
+                    <isCHDate>1</isCHDate>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="378" y="640" />
+            <size width="56" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{ch_date_day}-->
+                <data>
+                    <attributeName>caseCountSendDate</attributeName>
+                    <mode>dd</mode>
+                    <!--判断是否输出中文日期，必须和mode联用，单独取出年份或者月日数字，否则转换不正常-->
+                    <isCHDate>1</isCHDate>
+                </data>
+            </content>
+        </UITextField>
+        
+        <SubTable>
+            <origin x="0" y="281" />
+            <size width="460" height="224" />
+        </SubTable>
+    </DataTable>
+</CaseCountTable2>

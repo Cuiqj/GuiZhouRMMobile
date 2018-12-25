@@ -1,0 +1,64 @@
+//
+// Prefix header for all source files of the 'GuiZhouRMMobile' target in the 'GuiZhouRMMobile' project
+//
+
+#import <Availability.h>
+
+#if __IPHONE_OS_VERSION_MIN_REQUIRED
+    #ifndef __IPHONE_5_0
+        #warning "This project uses features only available in iPhone SDK 5.0 and later."
+    #endif
+
+    #ifdef __OBJC__
+        #import <UIKit/UIKit.h>
+        #import <Foundation/Foundation.h>
+        #import <SystemConfiguration/SystemConfiguration.h>
+        #import <MobileCoreServices/MobileCoreServices.h>
+    #endif
+#else
+    #ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+    #import <SystemConfiguration/SystemConfiguration.h>
+    #import <CoreServices/CoreServices.h>
+    #endif
+#endif
+
+#include <libxml/HTMLparser.h>
+#import "AppDelegate.h"
+#import <QuartzCore/QuartzCore.h>
+#import "NSString+MyStringProcess.h"
+#import "NSNumber+NumberConvert.h"
+#import "WebServiceHandler.h"
+#import "NSManagedObject+newEntity.h"
+
+#ifndef __OPTIMIZE__
+#define NSLog(...) NSLog(__VA_ARGS__)
+#else
+#define NSLog(...) {}
+#endif
+
+#define ARC_ENABLED
+
+#define BACKDISPATCH(block) dispatch_async(dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), block)
+#define MAINDISPATCH(block) dispatch_async(dispatch_get_main_queue(), block)
+
+#ifdef DEBUG
+#define NSLog(...) NSLog(__VA_ARGS__)
+#else
+#define NSLog(...) {}
+#endif
+
+
+#define ORGKEY @"CurrentOrgID"
+#define USERKEY @"CurrentUserID"
+#define INSPECTORARRAYKEY @"CurrentInspectorArray"
+#define INSPECTIONKEY @"CurrentInpection_id"
+
+#define BGCOLOR_DISABLECOLOR_RED 0.8
+#define BGCOLOR_DISABLECOLOR_GREEN 0.83
+#define BGCOLOR_DISABLECOLOR_BLUE 0.85
+#define BGCOLOR_DISABLECOLOR_ALPHA 1.0
+
+
+#define MMTOPIX 2.83f
+#define SCALEFACTOR 1.0017f

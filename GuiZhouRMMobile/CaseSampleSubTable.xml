@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CaseSampleSubTable>
+    <Paper size="subTable" width="460" height="28">
+        <!--定义纸张边距，上，左，右，下-->
+    </Paper>
+       <DataTable>        
+           <SequenceNumber>
+               <fontSize>12</fontSize>
+               <origin x="0" y="0" />
+               <size width="36" height="28" />               
+               <alignment>Center</alignment>
+           </SequenceNumber>
+           
+           <UITextField>
+               <fontSize>12</fontSize>
+               <origin x="36" y="0" />
+               <size width="168" height="28" />
+               <alignment>Center</alignment>
+               <content>
+                   <!--$F{name}-->
+                   <data>
+                       <attributeName>name</attributeName>
+                       <entityName></entityName>
+                   </data>
+               </content>
+           </UITextField>
+           
+           <UITextField>
+               <fontSize>7</fontSize>
+               <origin x="204" y="0" />
+               <size width="72" height="28" />
+               <alignment>Center</alignment>
+               <content>
+                   <!--$F{spec}-->
+                   <data>
+                       <attributeName>spec</attributeName>
+                       <entityName></entityName>
+                   </data>
+               </content>
+               <condition>
+                   <!--长度限制，与字符串比较冲突-->
+                   <lengthLimit>
+                       <min>10</min>
+                   </lengthLimit>
+               </condition>
+           </UITextField>
+           
+           <UITextField>
+               <fontSize>12</fontSize>
+               <origin x="216" y="0" />
+               <size width="60" height="28" />
+               <alignment>Center</alignment>
+               <content>
+                   <!--$F{spec}-->
+                   <data>
+                       <attributeName>spec</attributeName>
+                       <entityName></entityName>
+                   </data>
+               </content>
+               <condition>
+                   <!--长度限制，与字符串比较冲突-->
+                   <lengthLimit>
+                       <max>10</max>
+                   </lengthLimit>
+               </condition>
+           </UITextField>
+           
+           <UITextField>
+               <fontSize>12</fontSize>
+               <origin x="276" y="0" />
+               <size width="60" height="28" />
+               <alignment>Center</alignment>
+               <content>
+                   <!--$F{quantity}-->
+                   <data>
+                       <attributeName>quantity</attributeName>
+                       <mode>###.###</mode>
+                       <entityName></entityName>
+                   </data>
+               </content>
+           </UITextField>
+           
+           <UITextField>
+               <fontSize>12</fontSize>
+               <origin x="336" y="0" />
+               <size width="124" height="28" />
+               <alignment>Center</alignment>
+               <content>
+                   <!--$F{remark}-->
+                   <data>
+                       <attributeName>remark</attributeName>
+                       <entityName></entityName>
+                   </data>
+               </content>
+           </UITextField>
+       </DataTable>
+</CaseSampleSubTable>

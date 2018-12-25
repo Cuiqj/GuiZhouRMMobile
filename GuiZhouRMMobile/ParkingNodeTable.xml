@@ -1,0 +1,1117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParkingNodeTable>
+    <!--责令车辆停驶通知书-->
+    <!--对应数据库表ParkingNode-->
+    <!--定义纸张尺寸-->
+    <Paper size="A4" width="595" height="842">
+        <!--定义纸张边距，上，左，右，下-->
+        <Margin top="70"  left="70" right="65" bottom="65" />
+    </Paper>   
+    <!--固定表格-->
+    <StaticTable>
+        <Lines>
+            <!--默认线宽-->
+            <defaultLineWidth>0.5</defaultLineWidth>
+            <line x1="276" y1="61" x2="336" y2="61" />
+            
+            <line x1="408" y1="61" x2="444" y2="61" />
+            
+            <line x1="0" y1="65" x2="36" y2="65" />
+            
+            <line x1="0" y1="65" x2="0" y2="197" />
+            
+            <line x1="36" y1="65" x2="96" y2="65" />
+            
+            <line x1="36" y1="65" x2="36" y2="101" />
+            
+            <line x1="36" y1="65" x2="36" y2="197" />
+            
+            <line x1="96" y1="65" x2="228" y2="65" />
+            
+            <line x1="96" y1="65" x2="96" y2="101" />
+            
+            <line x1="96" y1="65" x2="96" y2="101" />
+            
+            <line x1="228" y1="65" x2="288" y2="65" />
+            
+            <line x1="228" y1="65" x2="228" y2="101" />
+            
+            <line x1="228" y1="65" x2="228" y2="101" />
+            
+            <line x1="288" y1="65" x2="460" y2="65" />
+            
+            <line x1="288" y1="65" x2="288" y2="101" />
+            
+            <line x1="288" y1="65" x2="288" y2="101" />
+            
+            <line x1="460" y1="65" x2="460" y2="101" />
+            
+            <line x1="36" y1="101" x2="96" y2="101" />
+            
+            <line x1="36" y1="101" x2="96" y2="101" />
+            
+            <line x1="36" y1="101" x2="36" y2="137" />
+            
+            <line x1="96" y1="101" x2="228" y2="101" />
+            
+            <line x1="96" y1="101" x2="228" y2="101" />
+            
+            <line x1="96" y1="101" x2="96" y2="137" />
+            
+            <line x1="96" y1="101" x2="96" y2="137" />
+            
+            <line x1="228" y1="101" x2="288" y2="101" />
+            
+            <line x1="228" y1="101" x2="288" y2="101" />
+            
+            <line x1="228" y1="101" x2="228" y2="137" />
+            
+            <line x1="228" y1="101" x2="228" y2="137" />
+            
+            <line x1="288" y1="101" x2="460" y2="101" />
+            
+            <line x1="288" y1="101" x2="460" y2="101" />
+            
+            <line x1="288" y1="101" x2="288" y2="137" />
+            
+            <line x1="288" y1="101" x2="288" y2="137" />
+            
+            <line x1="460" y1="101" x2="460" y2="137" />
+            
+            <line x1="36" y1="137" x2="96" y2="137" />
+            
+            <line x1="36" y1="137" x2="96" y2="137" />
+            
+            <line x1="36" y1="137" x2="36" y2="197" />
+            
+            <line x1="96" y1="137" x2="228" y2="137" />
+            
+            <line x1="96" y1="137" x2="228" y2="137" />
+            
+            <line x1="96" y1="137" x2="96" y2="197" />
+            
+            <line x1="96" y1="137" x2="96" y2="197" />
+            
+            <line x1="228" y1="137" x2="288" y2="137" />
+            
+            <line x1="228" y1="137" x2="288" y2="137" />
+            
+            <line x1="228" y1="137" x2="228" y2="197" />
+            
+            <line x1="228" y1="137" x2="228" y2="197" />
+            
+            <line x1="288" y1="137" x2="460" y2="137" />
+            
+            <line x1="288" y1="137" x2="460" y2="137" />
+            
+            <line x1="288" y1="137" x2="288" y2="197" />
+            
+            <line x1="288" y1="137" x2="288" y2="197" />
+            
+            <line x1="460" y1="137" x2="460" y2="197" />
+            
+            <line x1="0" y1="197" x2="96" y2="197" />
+            
+            <line x1="0" y1="197" x2="36" y2="197" />
+            
+            <line x1="0" y1="197" x2="0" y2="225" />
+            
+            <line x1="36" y1="197" x2="96" y2="197" />
+            
+            <line x1="96" y1="197" x2="144" y2="197" />
+            
+            <line x1="96" y1="197" x2="228" y2="197" />
+            
+            <line x1="96" y1="197" x2="96" y2="225" />
+            
+            <line x1="96" y1="197" x2="96" y2="225" />
+            
+            <line x1="144" y1="197" x2="156" y2="197" />
+            
+            <line x1="156" y1="197" x2="192" y2="197" />
+            
+            <line x1="192" y1="197" x2="204" y2="197" />
+            
+            <line x1="204" y1="197" x2="240" y2="197" />
+            
+            <line x1="228" y1="197" x2="288" y2="197" />
+            
+            <line x1="240" y1="197" x2="252" y2="197" />
+            
+            <line x1="252" y1="197" x2="288" y2="197" />
+            
+            <line x1="288" y1="197" x2="460" y2="197" />
+            
+            <line x1="288" y1="197" x2="460" y2="197" />
+            
+            <line x1="460" y1="197" x2="460" y2="225" />
+            
+            <line x1="0" y1="225" x2="96" y2="225" />
+            
+            <line x1="0" y1="225" x2="96" y2="225" />
+            
+            <line x1="0" y1="225" x2="0" y2="253" />
+            
+            <line x1="96" y1="225" x2="460" y2="225" />
+            
+            <line x1="96" y1="225" x2="144" y2="225" />
+            
+            <line x1="96" y1="225" x2="96" y2="253" />
+            
+            <line x1="96" y1="225" x2="96" y2="253" />
+            
+            <line x1="144" y1="225" x2="156" y2="225" />
+            
+            <line x1="156" y1="225" x2="192" y2="225" />
+            
+            <line x1="192" y1="225" x2="204" y2="225" />
+            
+            <line x1="204" y1="225" x2="240" y2="225" />
+            
+            <line x1="240" y1="225" x2="252" y2="225" />
+            
+            <line x1="252" y1="225" x2="288" y2="225" />
+            
+            <line x1="288" y1="225" x2="460" y2="225" />
+            
+            <line x1="460" y1="225" x2="460" y2="253" />
+            
+            <line x1="0" y1="253" x2="96" y2="253" />
+            
+            <line x1="96" y1="253" x2="460" y2="253" />
+            
+            <line x1="108" y1="275" x2="252" y2="275" />
+            
+            <line x1="264" y1="275" x2="324" y2="275" />
+            
+            <line x1="336" y1="275" x2="384" y2="275" />
+            
+            <line x1="396" y1="275" x2="444" y2="275" />
+            
+            <line x1="24" y1="297" x2="144" y2="297" />
+            
+            <line x1="156" y1="297" x2="432" y2="297" />
+            
+            <line x1="12" y1="319" x2="460" y2="319" />
+            
+            <line x1="0" y1="341" x2="444" y2="341" />
+            
+            <line x1="48" y1="385" x2="444" y2="385" />
+            
+            <line x1="240" y1="407" x2="460" y2="407" />
+            
+            <line x1="0" y1="429" x2="336" y2="429" />
+            
+            <line x1="0" y1="451" x2="144" y2="451" />
+            
+            <line x1="144" y1="451" x2="156" y2="451" />
+            
+            <line x1="156" y1="451" x2="252" y2="451" />
+            
+            <line x1="312" y1="517" x2="432" y2="517" />
+            
+            <line x1="132" y1="561" x2="216" y2="561" />
+            
+            <line x1="264" y1="561" x2="300" y2="561" />
+            
+            <line x1="312" y1="561" x2="348" y2="561" />
+            
+            <line x1="360" y1="561" x2="396" y2="561" />
+            
+            <line x1="408" y1="561" x2="444" y2="561" />
+            
+            <line x1="144" y1="583" x2="460" y2="583" />
+        </Lines>
+        <Title>
+            <Text>
+                <text>责令车辆停驶通知书</text>
+                <fontSize>22</fontSize>
+                <origin x="0" y="0" />
+                <size width="460" height="33" />
+                <alignment>Center</alignment>
+            </Text>
+        </Title>
+        <Texts>
+            <Text>
+                <text>案号：</text>
+                <fontSize>12</fontSize>
+                <origin x="240" y="37" />
+                <size width="36" height="24" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>责停[</text>
+                <fontSize>12</fontSize>
+                <origin x="336" y="37" />
+                <size width="36" height="24" />
+                <alignment>Left</alignment>
+            </Text>
+            
+            <Text>
+                <text>]</text>
+                <fontSize>12</fontSize>
+                <origin x="396" y="37" />
+                <size width="12" height="24" />
+                <alignment>Right</alignment>
+            </Text>
+            
+            <Text>
+                <text>号</text>
+                <fontSize>12</fontSize>
+                <origin x="444" y="37" />
+                <size width="12" height="24" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>被责令停驶车辆情况</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="65" />
+                <size width="36" height="132" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>姓  名</text>
+                <fontSize>12</fontSize>
+                <origin x="36" y="65" />
+                <size width="60" height="36" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>住  址</text>
+                <fontSize>12</fontSize>
+                <origin x="228" y="65" />
+                <size width="60" height="36" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>联系电话</text>
+                <fontSize>12</fontSize>
+                <origin x="36" y="101" />
+                <size width="60" height="36" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>驾驶证号</text>
+                <fontSize>12</fontSize>
+                <origin x="228" y="101" />
+                <size width="60" height="36" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>车牌号或机具名称</text>
+                <fontSize>12</fontSize>
+                <origin x="36" y="137" />
+                <size width="60" height="60" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>厂牌型号</text>
+                <fontSize>12</fontSize>
+                <origin x="228" y="137" />
+                <size width="60" height="60" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>责令停驶时间</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="197" />
+                <size width="96" height="28" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>年</text>
+                <fontSize>12</fontSize>
+                <origin x="144" y="197" />
+                <size width="12" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>月</text>
+                <fontSize>12</fontSize>
+                <origin x="192" y="197" />
+                <size width="12" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>日</text>
+                <fontSize>12</fontSize>
+                <origin x="240" y="197" />
+                <size width="12" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>时</text>
+                <fontSize>12</fontSize>
+                <origin x="288" y="197" />
+                <size width="172" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>备  注</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="225" />
+                <size width="96" height="28" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>经查明，当事人</text>
+                <fontSize>12</fontSize>
+                <origin x="24" y="253" />
+                <size width="84" height="22" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>于</text>
+                <fontSize>12</fontSize>
+                <origin x="252" y="253" />
+                <size width="12" height="22" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>年</text>
+                <fontSize>12</fontSize>
+                <origin x="324" y="253" />
+                <size width="12" height="22" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>月</text>
+                <fontSize>12</fontSize>
+                <origin x="384" y="253" />
+                <size width="12" height="22" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>日</text>
+                <fontSize>12</fontSize>
+                <origin x="444" y="253" />
+                <size width="16" height="22" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>驾驶</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="275" />
+                <size width="24" height="22" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>在</text>
+                <fontSize>12</fontSize>
+                <origin x="144" y="275" />
+                <size width="12" height="22" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>处，</text>
+                <fontSize>12</fontSize>
+                <origin x="432" y="275" />
+                <size width="28" height="22" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>因</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="297" />
+                <size width="12" height="22" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>。</text>
+                <fontSize>12</fontSize>
+                <origin x="444" y="319" />
+                <size width="16" height="22" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>依据</text>
+                <fontSize>12</fontSize>
+                <origin x="24" y="341" />
+                <size width="24" height="22" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>的规定，现责令你停止行驶，并将该</text>
+                <fontSize>12</fontSize>
+                <origin x="264" y="341" />
+                <size width="196" height="22" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>车停放于</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="363" />
+                <size width="48" height="22" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>，</text>
+                <fontSize>12</fontSize>
+                <origin x="444" y="363" />
+                <size width="16" height="22" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>请在收到本通知书之日起七日内持本通知书到</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="385" />
+                <size width="240" height="22" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>（联系人及联系电话：</text>
+                <fontSize>12</fontSize>
+                <origin x="336" y="407" />
+                <size width="124" height="22" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>）接受处理。逾期不接受处理的，发生</text>
+                <fontSize>12</fontSize>
+                <origin x="252" y="429" />
+                <size width="208" height="22" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>的一切经济损失由你自行承担。</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="451" />
+                <size width="460" height="22" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>你对本处理意见不服的，可依据《中华人民共和国行政复议法》或《中华人民共和</text>
+                <fontSize>12</fontSize>
+                <origin x="24" y="473" />
+                <size width="436" height="22" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>国行政诉讼法》的规定，在收到本决定书之日起六十日内向</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="495" />
+                <size width="312" height="22" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>申请</text>
+                <fontSize>12</fontSize>
+                <origin x="432" y="495" />
+                <size width="28" height="22" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>行政复议，也可以在三个月内向人民法院提起行政诉讼。</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="517" />
+                <size width="460" height="22" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>当事人或其代理人签名：</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="539" />
+                <size width="132" height="22" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>时间：</text>
+                <fontSize>12</fontSize>
+                <origin x="228" y="539" />
+                <size width="36" height="22" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>年</text>
+                <fontSize>12</fontSize>
+                <origin x="300" y="539" />
+                <size width="12" height="22" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>月</text>
+                <fontSize>12</fontSize>
+                <origin x="348" y="539" />
+                <size width="12" height="22" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>日</text>
+                <fontSize>12</fontSize>
+                <origin x="396" y="539" />
+                <size width="12" height="22" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>时</text>
+                <fontSize>12</fontSize>
+                <origin x="444" y="539" />
+                <size width="16" height="22" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>执法人员签名及执法证号：</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="561" />
+                <size width="144" height="22" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>年</text>
+                <fontSize>12</fontSize>
+                <origin x="348" y="642" />
+                <size width="12" height="22" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>月</text>
+                <fontSize>12</fontSize>
+                <origin x="396" y="642" />
+                <size width="12" height="22" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>日</text>
+                <fontSize>12</fontSize>
+                <origin x="444" y="642" />
+                <size width="12" height="22" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>（本文书一式两份，一份交当事人或其代理人，一份留存。）</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="685" />
+                <size width="460" height="22" />
+                <alignment>Center</alignment>
+            </Text>
+        </Texts>
+    </StaticTable>
+    <!--套打内容-->
+    <DataTable>
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="276" y="37" />
+            <size width="60" height="24" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{link_file_pre}-->
+                <data>
+                    <attributeName>file_pre</attributeName>
+                    <entityName>CaseInfo</entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="372" y="37" />
+            <size width="24" height="24" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{link_yearno}-->
+                <data>
+                    <attributeName>case_mark2</attributeName>
+                    <entityName>CaseInfo</entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="408" y="37" />
+            <size width="36" height="24" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{link_caseno}-->
+                <data>
+                    <attributeName>case_mark3</attributeName>
+                    <entityName>CaseInfo</entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="96" y="65" />
+            <size width="132" height="36" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{citizen_name}-->
+                <data>
+                    <attributeName>citizen_name</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="288" y="65" />
+            <size width="172" height="36" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{citizen_address}-->
+                <data>
+                    <attributeName>citizen_address</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="96" y="101" />
+            <size width="132" height="36" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{citizen_tel}-->
+                <data>
+                    <attributeName>citizen_tel</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="288" y="101" />
+            <size width="172" height="36" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{citizen_driving_no}-->
+                <data>
+                    <attributeName>citizen_driving_no</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="96" y="137" />
+            <size width="132" height="60" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{citizen_car_property}-->
+                <data>
+                    <attributeName>citizen_car_property</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="288" y="137" />
+            <size width="172" height="60" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{citizen_automobile_trademark}-->
+                <data>
+                    <attributeName>citizen_automobile_trademark</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="96" y="197" />
+            <size width="48" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{date_start}-->
+                <data>
+                    <attributeName>date_start</attributeName>
+                    <mode>yyyy</mode>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="156" y="197" />
+            <size width="36" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{date_start}-->
+                <data>
+                    <attributeName>date_start</attributeName>
+                    <mode>MM</mode>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="204" y="197" />
+            <size width="36" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{date_start}-->
+                <data>
+                    <attributeName>date_start</attributeName>
+                    <mode>dd</mode>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="252" y="197" />
+            <size width="36" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{date_start}-->
+                <data>
+                    <attributeName>date_start</attributeName>
+                    <mode>HH</mode>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="96" y="225" />
+            <size width="364" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{remark}-->
+                <data>
+                    <attributeName>remark</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="108" y="253" />
+            <size width="144" height="22" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{citizen_name}-->
+                <data>
+                    <attributeName>citizen_name</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="264" y="253" />
+            <size width="60" height="22" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{happen_date}-->
+                <data>
+                    <attributeName>happen_date</attributeName>
+                    <mode>yyyy</mode>
+                    <entityName>CaseInfo</entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="336" y="253" />
+            <size width="48" height="22" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{happen_date}-->
+                <data>
+                    <attributeName>happen_date</attributeName>
+                    <mode>MM</mode>
+                    <entityName>CaseInfo</entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="396" y="253" />
+            <size width="48" height="22" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{happen_date}-->
+                <data>
+                    <attributeName>happen_date</attributeName>
+                    <mode>dd</mode>
+                    <entityName>CaseInfo</entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="24" y="275" />
+            <size width="120" height="22" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{citizen_car_property}-->
+                <data>
+                    <attributeName>citizen_car_property</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="156" y="275" />
+            <size width="276" height="22" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{citizen_happen_address}-->
+                <data>
+                    <attributeName>citizen_happen_address</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="12" y="297" />
+            <size width="448" height="22" />
+            <alignment>Left</alignment>
+            <staticPrefix>　</staticPrefix>
+            <content>
+                <!--"  "+(($F{reason}==null)?"":(($F{reason}.length()>36)?($F{reason}.substring(0,36)):($F{reason})))-->
+                <data>
+                    <attributeName>reason</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+            <!--截取字符，内部的两个属性必不可少，index标识位置，fromHead表示是否从头截取，为真时从头截取，为假时则从index位置向后截取-->
+            <!--与textByLine元素冲突，优先读取textByLine，在无textByLine时才读取truncContent元素-->
+            <truncContent>
+                <index>36</index>
+                <fromHead>YES</fromHead>
+            </truncContent>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="0" y="319" />
+            <size width="444" height="22" />
+            <alignment>Left</alignment>
+            <content>
+                <!--($F{reason}!=null && $F{reason}.length()>36)?($F{reason}.substring(36)):""-->
+                <data>
+                    <attributeName>reason</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+            <!--截取字符，内部的两个属性必不可少，index标识位置，fromHead表示是否从头截取，为真时从头截取，为假时则从index位置向后截取-->
+            <!--与textByLine元素冲突，优先读取textByLine，在无textByLine时才读取truncContent元素-->
+            <truncContent>
+                <index>36</index>
+                <fromHead>NO</fromHead>
+            </truncContent>
+        </UITextField>
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="48" y="341" />
+            <size width="216" height="22" />
+            <alignment>Left</alignment>
+            <content>
+                <!---->
+                <text>《贵州省公路路政管理条例》第三十七条</text>
+            </content>
+        </UITextField>
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="48" y="363" />
+            <size width="396" height="22" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{park_address}-->
+                <data>
+                    <attributeName>park_address</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="240" y="385" />
+            <size width="220" height="22" />
+            <alignment>Center</alignment>
+            <staticPrefix>　</staticPrefix>
+            <content>
+                <!--"  "+(($F{linkAddress}==null)?"":(($F{linkAddress}.length()>17)?($F{linkAddress}.substring(0,17)):($F{linkAddress})))-->
+                <data>
+                    <attributeName>linkAddress</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+            <!--截取字符，内部的两个属性必不可少，index标识位置，fromHead表示是否从头截取，为真时从头截取，为假时则从index位置向后截取-->
+            <!--与textByLine元素冲突，优先读取textByLine，在无textByLine时才读取truncContent元素-->
+            <truncContent>
+                <index>17</index>
+                <fromHead>YES</fromHead>
+            </truncContent>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="0" y="407" />
+            <size width="336" height="22" />
+            <alignment>Center</alignment>
+            <content>
+                <!--($F{linkAddress}!=null && $F{linkAddress}.length()>17)?($F{linkAddress}.substring(17)):""-->
+                <data>
+                    <attributeName>linkAddress</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+            <!--截取字符，内部的两个属性必不可少，index标识位置，fromHead表示是否从头截取，为真时从头截取，为假时则从index位置向后截取-->
+            <!--与textByLine元素冲突，优先读取textByLine，在无textByLine时才读取truncContent元素-->
+            <truncContent>
+                <index>17</index>
+                <fromHead>NO</fromHead>
+            </truncContent>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="0" y="429" />
+            <size width="144" height="22" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{linkMan}-->
+                <data>
+                    <attributeName>linkMan</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+                
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="156" y="429" />
+            <size width="96" height="22" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{linkTel}-->
+                <data>
+                    <attributeName>linkTel</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="312" y="495" />
+            <size width="120" height="22" />
+            <alignment>Center</alignment>
+            <content>
+                <text>贵州省交通运输厅</text>
+            </content>
+        </UITextField>
+                
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="288" y="642" />
+            <size width="60" height="22" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{ch_date_year}-->
+                <data>
+                    <attributeName>date_send</attributeName>
+                    <mode>yyyy</mode>
+                    <!--判断是否输出中文日期，必须和mode联用，单独取出年份或者月日数字，否则转换不正常-->
+                    <isCHDate>1</isCHDate>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="360" y="642" />
+            <size width="36" height="22" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{ch_date_month}-->
+                <data>
+                    <attributeName>date_send</attributeName>
+                    <mode>MM</mode>
+                    <!--判断是否输出中文日期，必须和mode联用，单独取出年份或者月日数字，否则转换不正常-->
+                    <isCHDate>1</isCHDate>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="408" y="642" />
+            <size width="36" height="22" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{ch_date_day}-->
+                <data>
+                    <attributeName>date_send</attributeName>
+                    <mode>dd</mode>
+                    <!--判断是否输出中文日期，必须和mode联用，单独取出年份或者月日数字，否则转换不正常-->
+                    <isCHDate>1</isCHDate>
+                </data>
+            </content>
+        </UITextField>
+            
+    </DataTable>
+ </ParkingNodeTable>

@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ForceNoticeTable>
+    <!--所有尺寸单位以像素计算-->
+    <!--定义纸张尺寸-->
+    <Paper size="A4" width="595" height="842">
+        <!--定义纸张边距，上，左，右，下-->
+        <Margin top="70"  left="70" right="65" bottom="65" />
+    </Paper>
+    <!--所有缺省设置元素，default*之类均必不可少-->
+    <!--固定表格-->
+    <StaticTable>
+        <Lines>
+            <!--默认线宽-->
+            <defaultLineWidth>0.5</defaultLineWidth>
+            <!--直线两点位置坐标必不可少，线宽linewidth为可选配置参数-->
+            <!--上线-->            
+            <line x1="266" y1="75" x2="322" y2="75" />
+            
+            <line x1="392" y1="75" x2="434" y2="75" />
+            
+            <line x1="0" y1="115" x2="210" y2="115" />
+            
+            <line x1="0" y1="164" x2="460" y2="164" />
+            
+            <line x1="0" y1="187" x2="460" y2="187" />
+            
+            <line x1="0" y1="209" x2="460" y2="209" />
+            
+            <line x1="0" y1="232" x2="460" y2="232" />
+            
+            <line x1="0" y1="254" x2="460" y2="254" />
+            
+            <line x1="0" y1="278" x2="460" y2="278" />
+            
+            <line x1="56" y1="302" x2="460" y2="302" />
+            
+            <line x1="0" y1="326" x2="460" y2="326" />
+            
+            <line x1="0" y1="350" x2="392" y2="350" />
+            
+            <line x1="112" y1="374" x2="210" y2="374" />
+            
+            <line x1="350" y1="374" x2="460" y2="374" />
+            
+            <line x1="56" y1="398" x2="112" y2="398" />
+            
+            <line x1="126" y1="398" x2="168" y2="398" />
+            
+            <line x1="182" y1="398" x2="224" y2="398" />
+            
+            <line x1="0" y1="447" x2="460" y2="447" />
+            
+            <line x1="0" y1="470" x2="460" y2="470" />
+            
+            <line x1="0" y1="492" x2="460" y2="492" />
+            
+            <line x1="0" y1="515" x2="460" y2="515" />
+            
+            <line x1="0" y1="537" x2="460" y2="537" />
+            
+            <line x1="0" y1="561" x2="460" y2="561" />
+            
+            <line x1="0" y1="609" x2="168" y2="609" />
+            
+            <line x1="280" y1="609" x2="460" y2="609" />
+            
+            <line x1="0" y1="633" x2="168" y2="633" />
+            
+            <line x1="0" y1="688" x2="460" y2="688" />
+        </Lines>
+        <Title>
+            <Text>
+                <text>责令改正通知书</text>
+                <fontSize>22</fontSize>
+                <origin x="0" y="0" />
+                <size width="460" height="40" />
+                <alignment>Center</alignment>
+            </Text>
+        </Title>
+        <Texts>            
+            <Text>
+                <text>案号：</text>
+                <fontSize>14</fontSize>
+                <origin x="224" y="47" />
+                <size width="42" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>改[</text>
+                <fontSize>14</fontSize>
+                <origin x="322" y="47" />
+                <size width="28" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>]</text>
+                <fontSize>14</fontSize>
+                <origin x="378" y="47" />
+                <size width="14" height="28" />
+                <alignment>Right</alignment>
+            </Text>
+            
+            <Text>
+                <text>号</text>
+                <fontSize>14</fontSize>
+                <origin x="434" y="47" />
+                <size width="14" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>：</text>
+                <fontSize>14</fontSize>
+                <origin x="210" y="83" />
+                <size width="14" height="32" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>经调查，你存在下列违法事实：</text>
+                <fontSize>14</fontSize>
+                <origin x="28" y="115" />
+                <size width="432" height="24" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>根据</text>
+                <fontSize>14</fontSize>
+                <origin x="28" y="278" />
+                <size width="28" height="24" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>的规定。</text>
+                <fontSize>14</fontSize>
+                <origin x="392" y="326" />
+                <size width="68" height="24" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>现责令你对上述第</text>
+                <fontSize>14</fontSize>
+                <origin x="0" y="350" />
+                <size width="112" height="24" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>项问题立即改正；对第</text>
+                <fontSize>14</fontSize>
+                <origin x="210" y="350" />
+                <size width="140" height="24" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>项问题于</text>
+                <fontSize>14</fontSize>
+                <origin x="0" y="374" />
+                <size width="56" height="24" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>年</text>
+                <fontSize>14</fontSize>
+                <origin x="112" y="374" />
+                <size width="14" height="24" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>月</text>
+                <fontSize>14</fontSize>
+                <origin x="168" y="374" />
+                <size width="14" height="24" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>日前整改完毕。</text>
+                <fontSize>14</fontSize>
+                <origin x="224" y="374" />
+                <size width="236" height="24" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>改正内容和要求如下：</text>
+                <fontSize>14</fontSize>
+                <origin x="28" y="398" />
+                <size width="432" height="24" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>执法人员签名及执法证号：</text>
+                <fontSize>14</fontSize>
+                <origin x="0" y="561" />
+                <size width="168" height="24" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>被责令改正人签名及时间：</text>
+                <fontSize>14</fontSize>
+                <origin x="280" y="561" />
+                <size width="180" height="24" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>年</text>
+                <fontSize>14</fontSize>
+                <origin x="294" y="637" />
+                <size width="14" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>月</text>
+                <fontSize>14</fontSize>
+                <origin x="364" y="637" />
+                <size width="14" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>日</text>
+                <fontSize>14</fontSize>
+                <origin x="434" y="637" />
+                <size width="14" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>（本通知书一式两份，一份送交当事人或其代理人，一份留存）</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="688" />
+                <size width="460" height="19" />
+                <alignment>Center</alignment>
+            </Text>
+        </Texts>
+    </StaticTable>
+    <DataTable>
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="266" y="47" />
+            <size width="56" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{link_file_pre}-->
+                <data>
+                    <attributeName>file_pre</attributeName>
+                    <entityName>CaseInfo</entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="350" y="47" />
+            <size width="28" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{link_yearno}-->
+                <data>
+                    <attributeName>case_mark2</attributeName>
+                    <entityName>CaseInfo</entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="392" y="47" />
+            <size width="42" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{link_caseno}-->
+                <data>
+                    <attributeName>case_mark3</attributeName>
+                    <entityName>CaseInfo</entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="0" y="83" />
+            <size width="210" height="32" />
+            <alignment>Left</alignment>
+            <content>
+                <!--$F{party}-->
+                <data>
+                    <attributeName>dsrname</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextView>
+            <fontSize>14</fontSize>
+            <origin x="0" y="141" />
+            <size width="460" height="138" />
+            <lineHeight>23</lineHeight>
+            <alignment>Left</alignment>
+            <content>
+                <!--$F{fact}-->
+                <data>
+                    <attributeName>fact</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextView>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="56" y="278" />
+            <size width="404" height="24" />
+            <alignment>Left</alignment>
+            <staticPrefix>　</staticPrefix>
+            <content>
+                <!--"  "+$P{REPORT_SCRIPTLET}.getLines($F{basis_law},27,32,3)[0]-->
+                <data>
+                    <attributeName>basis_law</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+            <!--字符分行设置，四个参数分别为，第一行字符数，第二行字符数，总行数，当前行序号-->
+            <!--与truncContent元素冲突，优先读取textByLine，在无textByLine时才读取truncContent元素-->
+            <textByLine line1CharCount = "27" line2CharCount = "32" lineCount = "3" lineIndex = "0" />
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="0" y="302" />
+            <size width="460" height="24" />
+            <alignment>Left</alignment>
+            <content>
+                <!--$P{REPORT_SCRIPTLET}.getLines($F{basis_law},27,32,3)[1]-->
+                <data>
+                    <attributeName>basis_law</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+            <!--字符分行设置，四个参数分别为，第一行字符数，第二行字符数，总行数，当前行序号-->
+            <!--与truncContent元素冲突，优先读取textByLine，在无textByLine时才读取truncContent元素-->
+            <textByLine line1CharCount = "27" line2CharCount = "32" lineCount = "3" lineIndex = "1" />
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="0" y="326" />
+            <size width="392" height="24" />
+            <alignment>Left</alignment>
+            <content>
+                <!--$P{REPORT_SCRIPTLET}.getLines($F{basis_law},27,32,3)[2]-->
+                <data>
+                    <attributeName>basis_law</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+            <!--字符分行设置，四个参数分别为，第一行字符数，第二行字符数，总行数，当前行序号-->
+            <!--与truncContent元素冲突，优先读取textByLine，在无textByLine时才读取truncContent元素-->
+            <textByLine line1CharCount = "27" line2CharCount = "32" lineCount = "3" lineIndex = "2" />
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="112" y="350" />
+            <size width="98" height="24" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{change_spot}-->
+                <data>
+                    <attributeName>change_spot</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="350" y="350" />
+            <size width="110" height="24" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{change_limit}-->
+                <data>
+                    <attributeName>change_limit</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="56" y="374" />
+            <size width="56" height="24" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{change_time}-->
+                <data>
+                    <attributeName>change_time</attributeName>
+                    <mode>yyyy</mode>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="126" y="374" />
+            <size width="42" height="24" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{change_time}-->
+                <data>
+                    <attributeName>change_time</attributeName>
+                    <mode>MM</mode>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="182" y="374" />
+            <size width="42" height="24" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{change_time}-->
+                <data>
+                    <attributeName>change_time</attributeName>
+                    <mode>dd</mode>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextView>
+            <fontSize>14</fontSize>
+            <origin x="0" y="424" />
+            <size width="460" height="138" />
+            <lineHeight>23</lineHeight>
+            <alignment>Left</alignment>
+            <content>
+                <!--$F{change_action}-->
+                <data>
+                    <attributeName>change_action</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextView>
+        
+        
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="224" y="637" />
+            <size width="70" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{ch_date_year}-->
+                <data>
+                    <attributeName>date_send</attributeName>
+                    <mode>yyyy</mode>
+                    <!--判断是否输出中文日期，必须和mode联用，单独取出年份或者月日数字，否则转换不正常-->
+                    <isCHDate>1</isCHDate>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="308" y="637" />
+            <size width="56" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{ch_date_month}-->
+                <data>
+                    <attributeName>date_send</attributeName>
+                    <mode>MM</mode>
+                    <!--判断是否输出中文日期，必须和mode联用，单独取出年份或者月日数字，否则转换不正常-->
+                    <isCHDate>1</isCHDate>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="378" y="637" />
+            <size width="56" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{ch_date_day}-->
+                <data>
+                    <attributeName>date_send</attributeName>
+                    <mode>dd</mode>
+                    <!--判断是否输出中文日期，必须和mode联用，单独取出年份或者月日数字，否则转换不正常-->
+                    <isCHDate>1</isCHDate>
+                </data>
+            </content>
+        </UITextField>
+    </DataTable>
+</ForceNoticeTable>

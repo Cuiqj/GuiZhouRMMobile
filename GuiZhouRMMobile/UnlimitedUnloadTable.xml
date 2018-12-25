@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UnlimitedUnloadTable>
+    <!--所有尺寸单位以像素计算-->
+    <!--定义纸张尺寸-->
+    <Paper size="A4" width="595" height="842">
+        <!--定义纸张边距，上，左，右，下-->
+        <Margin top="70"  left="70" right="65" bottom="65" />
+    </Paper>
+    <!--所有缺省设置元素，default*之类均必不可少-->
+    <!--固定表格-->
+    <StaticTable>
+        <Lines>
+            <!--默认线宽-->
+            <defaultLineWidth>0.5</defaultLineWidth>
+            <!--直线两点位置坐标必不可少，线宽linewidth为可选配置参数-->
+            <line x1="240" y1="79" x2="300" y2="79" />
+            
+            <line x1="375" y1="79" x2="420" y2="79" />
+            
+            <line x1="0" y1="87" x2="460" y2="87" />
+            
+            <line x1="0" y1="143" x2="225" y2="143" />
+            
+            <line x1="150" y1="171" x2="460" y2="171" />
+            
+            <line x1="0" y1="199" x2="165" y2="199" />
+            
+            <line x1="285" y1="199" x2="435" y2="199" />
+            
+            <line x1="60" y1="227" x2="105" y2="227" />
+            
+            <line x1="210" y1="227" x2="375" y2="227" />
+            
+            <line x1="0" y1="255" x2="60" y2="255" />
+            
+            <line x1="135" y1="255" x2="195" y2="255" />
+            
+            <line x1="390" y1="339" x2="435" y2="339" />
+            
+            <line x1="0" y1="367" x2="45" y2="367" />
+            
+            <line x1="60" y1="367" x2="105" y2="367" />
+            
+            <line x1="225" y1="367" x2="300" y2="367" />
+            
+            <line x1="90" y1="636" x2="240" y2="636" />
+            
+            <line x1="255" y1="636" x2="315" y2="636" />
+            
+            <line x1="330" y1="636" x2="375" y2="636" />
+            
+            <line x1="390" y1="636" x2="435" y2="636" />
+            
+            <line x1="105" y1="664" x2="460" y2="664" />
+            
+            <line x1="0" y1="682" x2="460" y2="682" />
+        </Lines>
+        <Title>
+            <Text>
+                <text>超限车辆卸载通知书</text>
+                <fontSize>22</fontSize>
+                <origin x="0" y="0" />
+                <size width="460" height="36" />
+                <alignment>Center</alignment>
+            </Text>
+        </Title>
+        <Texts>            
+            <Text>
+                <text>案号：</text>
+                <fontSize>15</fontSize>
+                <origin x="195" y="51" />
+                <size width="45" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>卸[</text>
+                <fontSize>15</fontSize>
+                <origin x="300" y="51" />
+                <size width="40" height="28" />
+                <alignment>Left</alignment>
+            </Text>
+            
+            <Text>
+                <text>]</text>
+                <fontSize>15</fontSize>
+                <origin x="360" y="51" />
+                <size width="15" height="28" />
+                <alignment>Right</alignment>
+            </Text>
+            
+            <Text>
+                <text>号</text>
+                <fontSize>15</fontSize>
+                <origin x="420" y="51" />
+                <size width="15" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>：</text>
+                <fontSize>15</fontSize>
+                <origin x="225" y="107" />
+                <size width="15" height="36" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>经检测，你行驶在</text>
+                <fontSize>15</fontSize>
+                <origin x="30" y="143" />
+                <size width="120" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>的车辆，车牌号为</text>
+                <fontSize>15</fontSize>
+                <origin x="165" y="171" />
+                <size width="120" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>，</text>
+                <fontSize>15</fontSize>
+                <origin x="435" y="171" />
+                <size width="25" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>车轴数为</text>
+                <fontSize>15</fontSize>
+                <origin x="0" y="199" />
+                <size width="60" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>轴，运输货物为</text>
+                <fontSize>15</fontSize>
+                <origin x="105" y="199" />
+                <size width="105" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>，车货总重</text>
+                <fontSize>15</fontSize>
+                <origin x="375" y="199" />
+                <size width="85" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>吨，总超限</text>
+                <fontSize>15</fontSize>
+                <origin x="60" y="227" />
+                <size width="75" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>吨。本执法单位认为，你未经批准，在</text>
+                <fontSize>15</fontSize>
+                <origin x="195" y="227" />
+                <size width="265" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>公路上擅自进行超限运输，违反了《中华人民共和国公路法》第五十</text>
+                <fontSize>15</fontSize>
+                <origin x="0" y="255" />
+                <size width="460" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>条第一款、《贵州省公路路政管理条例》第二十条、《超限运输车辆</text>
+                <fontSize>15</fontSize>
+                <origin x="0" y="283" />
+                <size width="460" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>行驶公路管理规定》第三条、第十三条之规定。现通知你于</text>
+                <fontSize>15</fontSize>
+                <origin x="0" y="311" />
+                <size width="390" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>年</text>
+                <fontSize>15</fontSize>
+                <origin x="435" y="311" />
+                <size width="15" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>月</text>
+                <fontSize>15</fontSize>
+                <origin x="45" y="339" />
+                <size width="15" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>日前自行卸去货物</text>
+                <fontSize>15</fontSize>
+                <origin x="105" y="339" />
+                <size width="120" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>吨，并接受有关处理后</text>
+                <fontSize>15</fontSize>
+                <origin x="300" y="339" />
+                <size width="160" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>方得驶离。否则，本执法单位将依法进行强制卸载，卸载所产生的费</text>
+                <fontSize>15</fontSize>
+                <origin x="0" y="367" />
+                <size width="460" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>用由你承担。</text>
+                <fontSize>15</fontSize>
+                <origin x="0" y="395" />
+                <size width="460" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>年</text>
+                <fontSize>15</fontSize>
+                <origin x="285" y="489" />
+                <size width="15" height="23" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>月</text>
+                <fontSize>15</fontSize>
+                <origin x="360" y="489" />
+                <size width="15" height="23" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>日</text>
+                <fontSize>15</fontSize>
+                <origin x="435" y="489" />
+                <size width="15" height="23" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>驾驶员签字：</text>
+                <fontSize>15</fontSize>
+                <origin x="0" y="608" />
+                <size width="90" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>年</text>
+                <fontSize>15</fontSize>
+                <origin x="315" y="608" />
+                <size width="15" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>月</text>
+                <fontSize>15</fontSize>
+                <origin x="375" y="608" />
+                <size width="15" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>日</text>
+                <fontSize>15</fontSize>
+                <origin x="435" y="608" />
+                <size width="25" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>执法人员签字：</text>
+                <fontSize>15</fontSize>
+                <origin x="0" y="636" />
+                <size width="105" height="28" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>（本通知书一式两份，一份送交驾驶员或当事人，一份留存）</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="687" />
+                <size width="460" height="20" />
+                <alignment>Center</alignment>
+            </Text>
+        </Texts>
+    </StaticTable>
+    <DataTable>
+        <UITextField>
+            <fontSize>15</fontSize>
+            <origin x="240" y="51" />
+            <size width="60" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{link_file_pre}-->
+                <data>
+                    <attributeName>file_pre</attributeName>
+                    <entityName>CaseInfo</entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>15</fontSize>
+            <origin x="330" y="51" />
+            <size width="30" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{link_yearno}-->
+                <data>
+                    <attributeName>case_mark2</attributeName>
+                    <entityName>CaseInfo</entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>15</fontSize>
+            <origin x="375" y="51" />
+            <size width="45" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{link_caseno}-->
+                <data>
+                    <attributeName>case_mark3</attributeName>
+                    <entityName>CaseInfo</entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>15</fontSize>
+            <origin x="0" y="107" />
+            <size width="225" height="36" />
+            <alignment>Left</alignment>
+            <content>
+                <!--$F{party}-->
+                <data>
+                    <attributeName>dsrname</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>15</fontSize>
+            <origin x="150" y="143" />
+            <size width="310" height="28" />
+            <alignment>Left</alignment>
+            <staticPrefix>　</staticPrefix>
+            <content>
+                <!--"  "+(($F{roadName}==null)?"":(($F{roadName}.length()>19)?($F{roadName}.substring(0,19)):($F{roadName})))-->
+                <data>
+                    <attributeName>roadName</attributeName>
+                </data>
+            </content>
+            <!--截取字符，内部的两个属性必不可少，index标识位置，fromHead表示是否从头截取，为真时从头截取，为假时则从index位置向后截取-->
+            <!--与textByLine元素冲突，优先读取textByLine，在无textByLine时才读取truncContent元素-->
+            <truncContent>
+                <index>19</index>
+                <fromHead>YES</fromHead>
+            </truncContent>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>15</fontSize>
+            <origin x="0" y="171" />
+            <size width="165" height="28" />
+            <alignment>Left</alignment>
+            <content>
+                <!--($F{roadName}!=null && $F{roadName}.length()>19)?($F{roadName}.substring(19)):""-->
+                <data>
+                    <attributeName>roadName</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+            <!--截取字符，内部的两个属性必不可少，index标识位置，fromHead表示是否从头截取，为真时从头截取，为假时则从index位置向后截取-->
+            <!--与textByLine元素冲突，优先读取textByLine，在无textByLine时才读取truncContent元素-->
+            <truncContent>
+                <index>19</index>
+                <fromHead>NO</fromHead>
+            </truncContent>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>15</fontSize>
+            <origin x="285" y="171" />
+            <size width="150" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{carNumber}-->
+                <data>
+                    <attributeName>carNumber</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>15</fontSize>
+            <origin x="60" y="199" />
+            <size width="45" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{zou}-->
+                <data>
+                    <attributeName>zou</attributeName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>15</fontSize>
+            <origin x="210" y="199" />
+            <size width="165" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{goods}-->
+                <data>
+                    <attributeName>goods</attributeName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>15</fontSize>
+            <origin x="0" y="227" />
+            <size width="60" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{weight}-->
+                <data>
+                    <attributeName>weight</attributeName>
+                    <mode>#,##0.00</mode>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>15</fontSize>
+            <origin x="135" y="227" />
+            <size width="60" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{unlimit}-->
+                <data>
+                    <attributeName>unlimit</attributeName>
+                    <mode>#,##0.00</mode>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>15</fontSize>
+            <origin x="390" y="311" />
+            <size width="45" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{limitDate}-->
+                <data>
+                    <attributeName>limitDate</attributeName>
+                    <mode>yyyy</mode>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>15</fontSize>
+            <origin x="0" y="339" />
+            <size width="45" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{limitDate}-->
+                <data>
+                    <attributeName>limitDate</attributeName>
+                    <mode>MM</mode>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>15</fontSize>
+            <origin x="60" y="339" />
+            <size width="45" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{limitDate}-->
+                <data>
+                    <attributeName>limitDate</attributeName>
+                    <mode>dd</mode>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>15</fontSize>
+            <origin x="225" y="339" />
+            <size width="75" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{unload}-->
+                <data>
+                    <attributeName>unload</attributeName>
+                    <mode>#,##0.00</mode>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>15</fontSize>
+            <origin x="210" y="489" />
+            <size width="75" height="23" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{ch_date_year}-->
+                <data>
+                    <attributeName>sendDate</attributeName>
+                    <mode>yyyy</mode>
+                    <!--判断是否输出中文日期，必须和mode联用，单独取出年份或者月日数字，否则转换不正常-->
+                    <isCHDate>1</isCHDate>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>15</fontSize>
+            <origin x="300" y="489" />
+            <size width="60" height="23" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{ch_date_month}-->
+                <data>
+                    <attributeName>sendDate</attributeName>
+                    <mode>MM</mode>
+                    <!--判断是否输出中文日期，必须和mode联用，单独取出年份或者月日数字，否则转换不正常-->
+                    <isCHDate>1</isCHDate>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>15</fontSize>
+            <origin x="375" y="489" />
+            <size width="60" height="23" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{ch_date_day}-->
+                <data>
+                    <attributeName>sendDate</attributeName>
+                    <mode>dd</mode>
+                    <!--判断是否输出中文日期，必须和mode联用，单独取出年份或者月日数字，否则转换不正常-->
+                    <isCHDate>1</isCHDate>
+                </data>
+            </content>
+        </UITextField>
+    </DataTable>
+</UnlimitedUnloadTable>

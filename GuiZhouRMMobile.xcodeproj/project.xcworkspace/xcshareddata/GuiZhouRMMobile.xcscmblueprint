@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2693a6d5-1ebd-46bd-a85d-33a72c51ae1b++2453",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "2693a6d5-1ebd-46bd-a85d-33a72c51ae1b++2453" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2693a6d5-1ebd-46bd-a85d-33a72c51ae1b++2453" : 0,
+    "3C849D3D66884C904C521A9524E383567909CAFE" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "00033032-8687-48EA-BB78-04D051C51C7A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2693a6d5-1ebd-46bd-a85d-33a72c51ae1b++2453" : "GuiZhouRMMobile\/",
+    "3C849D3D66884C904C521A9524E383567909CAFE" : "GuiZhouRMMobile\/GuiZhouRMMobile\/src\/RATreeView\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GuiZhouRMMobile",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GuiZhouRMMobile.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/svn.edaoyou.com\/edaoyou",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2693a6d5-1ebd-46bd-a85d-33a72c51ae1b++2453"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Augustyniak\/RATreeView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3C849D3D66884C904C521A9524E383567909CAFE"
+    }
+  ]
+}

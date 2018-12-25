@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Server Settings</key>
+	<dict>
+		<key>server address</key>
+		<string>http://222.85.160.25:8080/irmsgz</string>
+		<key>file address</key>
+		<string>http://222.85.160.25:8080/irmsgz</string>
+	</dict>
+	<key>FileToTableMapping</key>
+	<dict>
+		<key>抽样取证凭证</key>
+		<string>CaseSampleTable</string>
+		<key>送达回证</key>
+		<string>ServiceReceiptTable</string>
+		<key>赔（补）偿费计算表</key>
+		<string>CaseCountTable</string>
+		<key>行政（当场）处罚决定书</key>
+		<string>PunishDecisionSpotTable</string>
+		<key>行政处罚决定书</key>
+		<string>PunishDecisionTable</string>
+		<key>违法行为通知书</key>
+		<string>IllegalActTable</string>
+		<key>超限车辆卸载通知书</key>
+		<string>UnlimitedUnloadTable</string>
+		<key>责令停止（改正）违法行为通知书</key>
+		<string>ForceStopNoticeTable</string>
+		<key>责令改正通知书</key>
+		<string>ForceNoticeTable</string>
+		<key>现场勘查平面示意图</key>
+		<string>ProveMapTable</string>
+		<key>勘验检查笔录</key>
+		<string>ProveInfoTable</string>
+		<key>询问笔录</key>
+		<string>InquireTable</string>
+		<key>责令停驶通知书</key>
+		<string>ParkingNodeTable</string>
+		<key>赔（补）偿通知书</key>
+		<string>AtonementNoticeTable</string>
+	</dict>
+</dict>
+</plist>

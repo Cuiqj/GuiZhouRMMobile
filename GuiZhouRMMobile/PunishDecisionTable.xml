@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PunishDecisionTable>
+    <Paper size="A4" width="595" height="842">
+        <!--定义纸张边距，上，左，右，下-->
+        <Margin top="70"  left="70" right="65" bottom="65" />
+    </Paper>
+    <StaticTable>
+        <Lines>
+            <defaultLineWidth>0.5</defaultLineWidth>
+            <line x1="252" y1="62" x2="308" y2="62" />
+            
+            <line x1="378" y1="62" x2="420" y2="62" />
+            
+            <line x1="0" y1="74" x2="56" y2="74" />
+            
+            <line x1="56" y1="74" x2="460" y2="74" />
+            
+            <line x1="56" y1="106" x2="460" y2="106" />
+            
+            <line x1="84" y1="130" x2="460" y2="130" />
+            
+            <line x1="84" y1="130" x2="460" y2="130" />
+            
+            <line x1="70" y1="151" x2="460" y2="151" />
+            
+            <line x1="0" y1="171" x2="196" y2="171" />
+            
+            <line x1="0" y1="188" x2="460" y2="188" />
+            
+            <line x1="0" y1="204" x2="460" y2="204" />
+            
+            <line x1="0" y1="220" x2="460" y2="220" />
+            
+            <line x1="0" y1="236" x2="460" y2="236" />
+            
+            <line x1="0" y1="252" x2="460" y2="252" />
+            
+            <line x1="0" y1="268" x2="460" y2="268" />
+            
+            <line x1="112" y1="289" x2="460" y2="289" />
+            
+            <line x1="0" y1="309" x2="308" y2="309" />
+            
+            <line x1="266" y1="329" x2="460" y2="329" />
+            
+            <line x1="0" y1="349" x2="460" y2="349" />
+            
+            <line x1="0" y1="369" x2="392" y2="369" />
+            
+            <line x1="28" y1="389" x2="460" y2="389" />
+            
+            <line x1="0" y1="409" x2="460" y2="409" />
+            
+            <line x1="0" y1="429" x2="210" y2="429" />
+            
+            <line x1="98" y1="449" x2="460" y2="449" />
+            
+            <line x1="0" y1="469" x2="335" y2="469" />
+            
+            <line x1="0" y1="509" x2="336" y2="509" />
+            
+            <line x1="0" y1="529" x2="210" y2="529" />
+            
+            <line x1="28" y1="589" x2="168" y2="589" />
+            
+            <line x1="0" y1="689" x2="460" y2="689" />
+        </Lines>
+        <Title>
+            <Text>
+                <text>交通行政处罚决定书</text>
+                <fontSize>22</fontSize>
+                <origin x="0" y="0" />
+                <size width="460" height="34" />
+                <alignment>Center</alignment>
+            </Text>
+        </Title>
+        <Texts>            
+            <Text>
+                <text>案号：</text>
+                <fontSize>14</fontSize>
+                <origin x="210" y="42" />
+                <size width="42" height="20" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>罚[</text>
+                <fontSize>14</fontSize>
+                <origin x="308" y="42" />
+                <size width="28" height="20" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>]</text>
+                <fontSize>14</fontSize>
+                <origin x="364" y="42" />
+                <size width="14" height="20" />
+                <alignment>Right</alignment>
+            </Text>
+            
+            <Text>
+                <text>号</text>
+                <fontSize>14</fontSize>
+                <origin x="420" y="42" />
+                <size width="14" height="20" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>当事人：</text>
+                <fontSize>14</fontSize>
+                <origin x="0" y="74" />
+                <size width="56" height="32" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>当事人地址：</text>
+                <fontSize>14</fontSize>
+                <origin x="0" y="106" />
+                <size width="84" height="24" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>当事人</text>
+                <fontSize>14</fontSize>
+                <origin x="28" y="131" />
+                <size width="42" height="20" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>案，经本执法机构依法调</text>
+                <fontSize>14</fontSize>
+                <origin x="196" y="151" />
+                <size width="154" height="20" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>查，现查明：</text>
+                <fontSize>14</fontSize>
+                <origin x="350" y="151" />
+                <size width="110" height="20" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>上述事实，有</text>
+                <fontSize>14</fontSize>
+                <origin x="28" y="269" />
+                <size width="84" height="20" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>等证据材料予以证实。</text>
+                <fontSize>14</fontSize>
+                <origin x="308" y="289" />
+                <size width="152" height="20" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>本执法机构认为，当事人的行为违反了</text>
+                <fontSize>14</fontSize>
+                <origin x="28" y="309" />
+                <size width="238" height="20" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>的规定。</text>
+                <fontSize>14</fontSize>
+                <origin x="392" y="349" />
+                <size width="68" height="20" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>依据</text>
+                <fontSize>14</fontSize>
+                <origin x="0" y="369" />
+                <size width="28" height="20" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>的规定，作出如下行政处罚决定：</text>
+                <fontSize>14</fontSize>
+                <origin x="210" y="409" />
+                <size width="250" height="20" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>给予当事人</text>
+                <fontSize>14</fontSize>
+                <origin x="28" y="429" />
+                <size width="70" height="20" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>的行政处罚。</text>
+                <fontSize>14</fontSize>
+                <origin x="335" y="449" />
+                <size width="125" height="20" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>处以罚款的，当事人自收到本决定书之日起十五日内持本决定书到</text>
+                <fontSize>14</fontSize>
+                <origin x="28" y="469" />
+                <size width="432" height="20" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>缴纳罚款，帐号为</text>
+                <fontSize>14</fontSize>
+                <origin x="336" y="489" />
+                <size width="124" height="20" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>。逾期不按规定缴纳罚款的，每日按罚</text>
+                <fontSize>14</fontSize>
+                <origin x="210" y="509" />
+                <size width="250" height="20" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>款数额的3%加处罚款并申请人民法院强制执行。</text>
+                <fontSize>14</fontSize>
+                <origin x="0" y="529" />
+                <size width="460" height="20" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>当事人对本处罚决定不服的，可以在收到本处罚决定书之日起六十日</text>
+                <fontSize>14</fontSize>
+                <origin x="28" y="549" />
+                <size width="432" height="20" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>内向</text>
+                <fontSize>14</fontSize>
+                <origin x="0" y="569" />
+                <size width="28" height="20" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>申请复议或者三个月内向</text>
+                <fontSize>14</fontSize>
+                <origin x="168" y="569" />
+                <size width="154" height="20" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>人民法院起诉。</text>
+                <fontSize>14</fontSize>
+                <origin x="322" y="569" />
+                <size width="138" height="20" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>年</text>
+                <fontSize>14</fontSize>
+                <origin x="294" y="644" />
+                <size width="14" height="23" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>月</text>
+                <fontSize>14</fontSize>
+                <origin x="364" y="644" />
+                <size width="14" height="23" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>日</text>
+                <fontSize>14</fontSize>
+                <origin x="434" y="644" />
+                <size width="14" height="23" />
+                <alignment></alignment>
+            </Text>
+            
+            <Text>
+                <text>（本决定书一式三份，一份送交当事人，一份交银行，一份留存）</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="689" />
+                <size width="460" height="18" />
+                <alignment>Center</alignment>
+            </Text>
+        </Texts>
+    </StaticTable>
+    <DataTable>        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="252" y="42" />
+            <size width="56" height="20" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{link_file_pre}-->
+                <data>
+                    <attributeName>file_pre</attributeName>
+                    <entityName>CaseInfo</entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="336" y="42" />
+            <size width="28" height="20" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{link_yearno}-->
+                <data>
+                    <attributeName>case_mark2</attributeName>
+                    <entityName>CaseInfo</entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="378" y="42" />
+            <size width="42" height="20" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{link_caseno}-->
+                <data>
+                    <attributeName>case_mark3</attributeName>
+                    <entityName>CaseInfo</entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="56" y="74" />
+            <size width="404" height="32" />
+            <alignment>Left</alignment>
+            <content>
+                <!--$F{citizen_id}-->
+                <data>
+                    <attributeName>citizen_id</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>10</fontSize>
+            <origin x="84" y="106" />
+            <size width="376" height="24" />
+            <alignment>Left</alignment>
+            <content>
+                <!--$F{punish_other}-->
+                <data>
+                    <attributeName>punish_other</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+            <condition>
+                <!--长度限制，与字符串比较冲突-->
+                <lengthLimit>
+                    <min>26</min>
+                </lengthLimit>
+            </condition>
+
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="84" y="106" />
+            <size width="376" height="24" />
+            <alignment>Left</alignment>
+            <content>
+                <!--$F{punish_other}-->
+                <data>
+                    <attributeName>punish_other</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+            <condition>
+                <!--长度限制，与字符串比较冲突-->
+                <lengthLimit>
+                    <max>26</max>
+                </lengthLimit>
+            </condition>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="70" y="131" />
+            <size width="390" height="20" />
+            <alignment>Left</alignment>
+            <staticPrefix>　</staticPrefix>
+            <content>
+                <!--"  "+(($F{punishreason}==null)?"  ":(($F{punishreason}.length()>26)?($F{punishreason}.substring(0,26)):($F{punishreason})))-->
+                <data>
+                    <attributeName>punishreason</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+            <truncContent>
+                <index>26</index>
+                <fromHead>YES</fromHead>
+            </truncContent>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="0" y="151" />
+            <size width="196" height="20" />
+            <alignment>Left</alignment>
+            <content>
+                <!--($F{punishreason}!=null && $F{punishreason}.length()>26)?($F{punishreason}.substring(26)):""-->
+                <data>
+                    <attributeName>punishreason</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+            <truncContent>
+                <index>26</index>
+                <fromHead>NO</fromHead>
+            </truncContent>
+        </UITextField>
+        
+        <UITextView>
+            <fontSize>14</fontSize>
+            <origin x="0" y="172" />
+            <size width="460" height="100" />
+            <lineHeight>16</lineHeight>
+            <alignment>Left</alignment>
+            <staticPrefix>　　</staticPrefix>
+            <content>
+                <!--"    "+(($F{case_desc}==null)?"":$F{case_desc})-->
+                <data>
+                    <attributeName>case_desc</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextView>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="112" y="269" />
+            <size width="348" height="20" />
+            <alignment>Left</alignment>
+            <staticPrefix>　</staticPrefix>
+            <content>
+                <!--"  "+(($F{witness}==null)?"  ":(($F{witness}.length()>23)?($F{witness}.substring(0,23)):($F{witness})))-->
+                <data>
+                    <attributeName>witness</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+            <truncContent>
+                <index>23</index>
+                <fromHead>YES</fromHead>
+            </truncContent>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="0" y="289" />
+            <size width="308" height="20" />
+            <alignment>Left</alignment>
+            <content>
+                <!--($F{witness}!=null && $F{witness}.length()>23)?($F{witness}.substring(23)):""-->
+                <data>
+                    <attributeName>witness</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+            <truncContent>
+                <index>23</index>
+                <fromHead>NO</fromHead>
+            </truncContent>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="266" y="309" />
+            <size width="194" height="20" />
+            <alignment>Left</alignment>
+            <staticPrefix>　</staticPrefix>
+            <content>
+                <!--"  "+(($F{law_disobey}==null)?"":(($F{law_disobey}.length()>12)?($F{law_disobey}.substring(0,12)):($F{law_disobey})))-->
+                <data>
+                    <attributeName>law_disobey</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+            <truncContent>
+                <index>12</index>
+                <fromHead>YES</fromHead>
+            </truncContent>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="0" y="329" />
+            <size width="460" height="20" />
+            <alignment>Left</alignment>
+            <content>
+                <!--($F{law_disobey}!=null && $F{law_disobey}.length()>12)?(($F{law_disobey}.length()>44)?($F{law_disobey}.substring(12,44)):($F{law_disobey}.substring(12))):""-->
+                <data>
+                    <attributeName>law_disobey</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+            <truncContent>
+                <index>12</index>
+                <fromHead>NO</fromHead>
+            </truncContent>
+            <truncContent>
+                <index>32</index>
+                <fromHead>YES</fromHead>
+            </truncContent>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="0" y="349" />
+            <size width="392" height="20" />
+            <alignment>Left</alignment>
+            <content>
+                <!--($F{law_disobey}!=null && $F{law_disobey}.length()>44)?($F{law_disobey}.substring(44)):""-->
+                <data>
+                    <attributeName>law_disobey</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+            <truncContent>
+                <index>44</index>
+                <fromHead>NO</fromHead>
+            </truncContent>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="28" y="369" />
+            <size width="432" height="20" />
+            <alignment>Left</alignment>
+            <staticPrefix>　</staticPrefix>
+            <content>
+                <!--"  "+(($F{law_gist}==null)?"":(($F{law_gist}.length()>29)?($F{law_gist}.substring(0,29)):($F{law_gist})))-->
+                <data>
+                    <attributeName>law_gist</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+            <!--截取字符，内部的两个属性必不可少，index标识位置，fromHead表示是否从头截取，为真时从头截取，为假时则从index位置向后截取-->
+            <!--与textByLine元素冲突，优先读取textByLine，在无textByLine时才读取truncContent元素-->
+            <truncContent>
+                <index>29</index>
+                <fromHead>YES</fromHead>
+            </truncContent>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="0" y="389" />
+            <size width="460" height="20" />
+            <alignment>Left</alignment>
+            <content>
+                <!--($F{law_gist}!=null && $F{law_gist}.length()>29)?(($F{law_gist}.length()>61)?($F{law_gist}.substring(29,61)):($F{law_gist}.substring(29))):""-->
+                <data>
+                    <attributeName>law_gist</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+            <!--截取字符，内部的两个属性必不可少，index标识位置，fromHead表示是否从头截取，为真时从头截取，为假时则从index位置向后截取-->
+            <!--与textByLine元素冲突，优先读取textByLine，在无textByLine时才读取truncContent元素-->
+            <truncContent>
+                <index>29</index>
+                <fromHead>NO</fromHead>
+            </truncContent>
+            <!--在上次截取的字段上再次截取-->
+            <truncContent>
+                <index>42</index>
+                <fromHead>YES</fromHead>
+            </truncContent>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="0" y="409" />
+            <size width="210" height="20" />
+            <alignment>Left</alignment>
+            <content>
+                <!--($F{law_gist}!=null && $F{law_gist}.length()>61)?($F{law_gist}.substring(61)):""-->
+                <data>
+                    <attributeName>law_gist</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+            <!--截取字符，内部的两个属性必不可少，index标识位置，fromHead表示是否从头截取，为真时从头截取，为假时则从index位置向后截取-->
+            <!--与textByLine元素冲突，优先读取textByLine，在无textByLine时才读取truncContent元素-->
+            <truncContent>
+                <index>61</index>
+                <fromHead>NO</fromHead>
+            </truncContent>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="98" y="429" />
+            <size width="362" height="20" />
+            <alignment>Left</alignment>
+            <staticPrefix>　</staticPrefix>
+            <content>
+                <!--"  "+(($F{punish_decision}==null)?"  ":(($F{punish_decision}.length()>24)?($F{punish_decision}.substring(0,24)):($F{punish_decision})))-->
+                <data>
+                    <attributeName>punish_decision</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+            <!--截取字符，内部的两个属性必不可少，index标识位置，fromHead表示是否从头截取，为真时从头截取，为假时则从index位置向后截取-->
+            <!--与textByLine元素冲突，优先读取textByLine，在无textByLine时才读取truncContent元素-->
+            <truncContent>
+                <index>24</index>
+                <fromHead>YES</fromHead>
+            </truncContent>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="0" y="449" />
+            <size width="335" height="20" />
+            <alignment>Left</alignment>
+            <content>
+                <!--($F{punish_decision}!=null && $F{punish_decision}.length()>24)?($F{punish_decision}.substring(24)):""-->
+                <data>
+                    <attributeName>punish_decision</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+            <!--截取字符，内部的两个属性必不可少，index标识位置，fromHead表示是否从头截取，为真时从头截取，为假时则从index位置向后截取-->
+            <!--与textByLine元素冲突，优先读取textByLine，在无textByLine时才读取truncContent元素-->
+            <truncContent>
+                <index>24</index>
+                <fromHead>NO</fromHead>
+            </truncContent>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="0" y="489" />
+            <size width="336" height="20" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{organization}-->
+                <data>
+                    <attributeName>organization</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="0" y="509" />
+            <size width="210" height="20" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{account_number}-->
+                <data>
+                    <attributeName>account_number</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="28" y="569" />
+            <size width="140" height="20" />
+            <alignment>Center</alignment>
+            <content>
+                <text>贵州省交通运输厅</text>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="224" y="644" />
+            <size width="70" height="23" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{ch_date_year}-->
+                <data>
+                    <attributeName>send_date</attributeName>
+                    <mode>yyyy</mode>
+                    <!--判断是否输出中文日期，必须和mode联用，单独取出年份或者月日数字，否则转换不正常-->
+                    <isCHDate>1</isCHDate>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="308" y="644" />
+            <size width="56" height="23" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{ch_date_month}-->
+                <data>
+                    <attributeName>send_date</attributeName>
+                    <mode>MM</mode>
+                    <!--判断是否输出中文日期，必须和mode联用，单独取出年份或者月日数字，否则转换不正常-->
+                    <isCHDate>1</isCHDate>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>14</fontSize>
+            <origin x="378" y="644" />
+            <size width="56" height="23" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{ch_date_day}-->
+                <data>
+                    <attributeName>send_date</attributeName>
+                    <mode>dd</mode>
+                    <!--判断是否输出中文日期，必须和mode联用，单独取出年份或者月日数字，否则转换不正常-->
+                    <isCHDate>1</isCHDate>
+                </data>
+            </content>
+        </UITextField>
+    </DataTable>
+</PunishDecisionTable>

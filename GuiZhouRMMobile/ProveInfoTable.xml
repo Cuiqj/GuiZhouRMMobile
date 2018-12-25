@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProveInfoTable>
+    <!--所有尺寸单位以像素计算-->
+    <!--定义纸张尺寸-->
+    <Paper size="A4" width="595" height="842">
+        <!--定义纸张边距，上，左，右，下-->
+        <Margin top="70"  left="70" right="65" bottom="65" />
+    </Paper>
+    <!--所有缺省设置元素，default*之类均必不可少-->
+    <!--固定表格-->
+    <StaticTable>
+        <Lines>
+            <!--默认线宽-->
+            <defaultLineWidth>0.5</defaultLineWidth>
+            <!--直线两点位置坐标必不可少，线宽linewidth为可选配置参数-->
+            <!--上线-->            
+            <line x1="48" y1="91" x2="460" y2="91" />
+            
+            <line x1="108" y1="116" x2="144" y2="116" />
+            
+            <line x1="156" y1="116" x2="180" y2="116" />
+            
+            <line x1="192" y1="116" x2="216" y2="116" />
+            
+            <line x1="228" y1="116" x2="252" y2="116" />
+            
+            <line x1="264" y1="116" x2="288" y2="116" />
+            
+            <line x1="312" y1="116" x2="336" y2="116" />
+            
+            <line x1="348" y1="116" x2="372" y2="116" />
+            
+            <line x1="384" y1="116" x2="408" y2="116" />
+            
+            <line x1="420" y1="116" x2="444" y2="116" />
+            
+            <line x1="108" y1="144" x2="336" y2="144" />
+            
+            <line x1="408" y1="144" x2="460" y2="144" />
+            
+            <line x1="96" y1="172" x2="144" y2="172" />
+            
+            <line x1="228" y1="172" x2="336" y2="172" />
+            
+            <line x1="408" y1="172" x2="460" y2="172" />
+            
+            <line x1="96" y1="200" x2="144" y2="200" />
+            
+            <line x1="228" y1="200" x2="336" y2="200" />
+            
+            <line x1="408" y1="200" x2="460" y2="200" />
+            
+            <line x1="348" y1="227" x2="372" y2="227" />
+            
+            <line x1="420" y1="227" x2="444" y2="227" />
+            
+            <line x1="60" y1="228" x2="300" y2="228" />
+            
+            <line x1="60" y1="255" x2="180" y2="255" />
+            
+            <line x1="264" y1="255" x2="460" y2="255" />
+            
+            <line x1="60" y1="283" x2="300" y2="283" />
+            
+            <line x1="372" y1="283" x2="460" y2="283" />
+            
+            <line x1="192" y1="310" x2="216" y2="310" />
+            
+            <line x1="264" y1="310" x2="288" y2="310" />
+            
+            <line x1="84" y1="311" x2="144" y2="311" />
+            
+            <line x1="372" y1="311" x2="460" y2="311" />
+            
+            <line x1="60" y1="338" x2="180" y2="338" />
+            
+            <line x1="264" y1="338" x2="460" y2="338" />
+            
+            <line x1="60" y1="366" x2="132" y2="366" />
+            
+            <line x1="216" y1="366" x2="460" y2="366" />
+            
+            <line x1="60" y1="394" x2="132" y2="394" />
+            
+            <line x1="216" y1="394" x2="336" y2="394" />
+            
+            <line x1="408" y1="394" x2="460" y2="394" />
+            
+            <line x1="144" y1="419" x2="460" y2="419" />
+            
+            <line x1="0" y1="438" x2="460" y2="438" />
+            
+            <line x1="0" y1="457" x2="460" y2="457" />
+            
+            <line x1="0" y1="476" x2="460" y2="476" />
+            
+            <line x1="0" y1="495" x2="460" y2="495" />
+            
+            <line x1="0" y1="514" x2="460" y2="514" />
+            
+            <line x1="0" y1="533" x2="460" y2="533" />
+            
+            <line x1="0" y1="553" x2="460" y2="553" />
+            
+            <line x1="0" y1="573" x2="460" y2="573" />
+            
+            <line x1="0" y1="593" x2="460" y2="593" />
+            
+            <line x1="72" y1="641" x2="132" y2="641" />
+            
+            <line x1="252" y1="641" x2="312" y2="641" />
+            
+            <line x1="408" y1="643" x2="460" y2="643" />
+            
+            <line x1="120" y1="676" x2="252" y2="676" />
+            
+            <line x1="336" y1="676" x2="460" y2="676" />
+
+        </Lines>
+        <Title>
+            <Text>
+                <text>勘验（检查）笔录</text>
+                <fontSize>22</fontSize>
+                <origin x="0" y="0" />
+                <size width="460" height="40" />
+            </Text>
+        </Title>
+        <Texts>
+            <Text>
+                <text>案  由：</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="61" />
+                <size width="48" height="28" />
+            </Text>
+            <Text>
+                <text>勘验（检查）时间：</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="89" />
+                <size width="108" height="27" />
+            </Text>
+            <Text>
+                <text>年</text>
+                <fontSize>12</fontSize>
+                <origin x="144" y="89" />
+                <size width="12" height="27" />
+            </Text>
+            <Text>
+                <text>月</text>
+                <fontSize>12</fontSize>
+                <origin x="180" y="89" />
+                <size width="12" height="27" />
+            </Text>            
+            <Text>
+                <text>日</text>
+                <fontSize>12</fontSize>
+                <origin x="216" y="89" />
+                <size width="12" height="27" />
+            </Text>            
+            <Text>
+                <text>时</text>
+                <fontSize>12</fontSize>
+                <origin x="252" y="89" />
+                <size width="12" height="27" />
+            </Text>            
+            <Text>
+                <text>分至</text>
+                <fontSize>12</fontSize>
+                <origin x="288" y="89" />
+                <size width="24" height="27" />
+            </Text>            
+            <Text>
+                <text>月</text>
+                <fontSize>12</fontSize>
+                <origin x="336" y="89" />
+                <size width="12" height="27" />
+            </Text>            
+            <Text>
+                <text>日</text>
+                <fontSize>12</fontSize>
+                <origin x="372" y="89" />
+                <size width="12" height="27" />
+            </Text>            
+            <Text>
+                <text>时</text>
+                <fontSize>12</fontSize>
+                <origin x="408" y="89" />
+                <size width="12" height="27" />
+            </Text>            
+            <Text>
+                <text>分</text>
+                <fontSize>12</fontSize>
+                <origin x="444" y="89" />
+                <size width="16" height="27" />
+            </Text>            
+            <Text>
+                <text>勘验（检查）场所：</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="116" />
+                <size width="108" height="28" />
+            </Text>            
+            <Text>
+                <text>天气情况：</text>
+                <fontSize>12</fontSize>
+                <origin x="348" y="116" />
+                <size width="60" height="28" />
+            </Text>            
+            <Text>
+                <text>勘验（检查）人：</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="144" />
+                <size width="96" height="28" />
+            </Text>            
+            <Text>
+                <text>单位及职务：</text>
+                <fontSize>12</fontSize>
+                <origin x="156" y="144" />
+                <size width="72" height="28" />
+            </Text>
+            
+            <Text>
+                <text>执法证号：</text>
+                <fontSize>12</fontSize>
+                <origin x="348" y="144" />
+                <size width="60" height="28" />
+            </Text>
+            
+            <Text>
+                <text>勘验（检查）人：</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="172" />
+                <size width="96" height="28" />
+            </Text>
+            
+            <Text>
+                <text>单位及职务：</text>
+                <fontSize>12</fontSize>
+                <origin x="156" y="172" />
+                <size width="72" height="28" />
+            </Text>
+            
+            <Text>
+                <text>执法证号：</text>
+                <fontSize>12</fontSize>
+                <origin x="348" y="172" />
+                <size width="60" height="28" />
+            </Text>
+            
+            <Text>
+                <text>当 事 人：</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="200" />
+                <size width="60" height="27" />
+            </Text>
+            
+            <Text>
+                <text>性别：</text>
+                <fontSize>12</fontSize>
+                <origin x="312" y="200" />
+                <size width="36" height="27" />
+            </Text>
+            
+            <Text>
+                <text>年龄：</text>
+                <fontSize>12</fontSize>
+                <origin x="384" y="200" />
+                <size width="36" height="27" />
+            </Text>
+            
+            <Text>
+                <text>岁</text>
+                <fontSize>12</fontSize>
+                <origin x="444" y="200" />
+                <size width="16" height="27" />
+            </Text>
+            
+            <Text>
+                <text>身份证号：</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="227" />
+                <size width="60" height="28" />
+            </Text>
+            
+            <Text>
+                <text>单位及职务：</text>
+                <fontSize>12</fontSize>
+                <origin x="192" y="227" />
+                <size width="72" height="28" />
+            </Text>
+            
+            <Text>
+                <text>住    址：</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="255" />
+                <size width="60" height="28" />
+            </Text>
+            
+            <Text>
+                <text>联系电话：</text>
+                <fontSize>12</fontSize>
+                <origin x="312" y="255" />
+                <size width="60" height="28" />
+            </Text>
+            
+            <Text>
+                <text>当事人代理人：</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="283" />
+                <size width="84" height="27" />
+            </Text>
+            
+            <Text>
+                <text>性别：</text>
+                <fontSize>12</fontSize>
+                <origin x="156" y="283" />
+                <size width="36" height="27" />
+            </Text>
+            
+            <Text>
+                <text>年龄：</text>
+                <fontSize>12</fontSize>
+                <origin x="228" y="283" />
+                <size width="36" height="27" />
+            </Text>
+            
+            <Text>
+                <text>岁</text>
+                <fontSize>12</fontSize>
+                <origin x="288" y="283" />
+                <size width="12" height="27" />
+            </Text>
+            
+            <Text>
+                <text>联系电话：</text>
+                <fontSize>12</fontSize>
+                <origin x="312" y="283" />
+                <size width="60" height="28" />
+            </Text>
+            
+            <Text>
+                <text>身份证号：</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="310" />
+                <size width="60" height="28" />
+            </Text>
+            
+            <Text>
+                <text>单位及职务：</text>
+                <fontSize>12</fontSize>
+                <origin x="192" y="310" />
+                <size width="72" height="28" />
+            </Text>
+            
+            <Text>
+                <text>被邀请人：</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="338" />
+                <size width="60" height="28" />
+            </Text>
+            
+            <Text>
+                <text>单位及职务：</text>
+                <fontSize>12</fontSize>
+                <origin x="144" y="338" />
+                <size width="72" height="28" />
+            </Text>
+            
+            <Text>
+                <text>记 录 人：</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="366" />
+                <size width="60" height="28" />
+            </Text>
+            
+            <Text>
+                <text>单位及职务：</text>
+                <fontSize>12</fontSize>
+                <origin x="144" y="366" />
+                <size width="72" height="28" />
+            </Text>
+            
+            <Text>
+                <text>执法证号：</text>
+                <fontSize>12</fontSize>
+                <origin x="348" y="366" />
+                <size width="60" height="28" />
+            </Text>
+            
+            <Text>
+                <text>勘验（检查）情况及结果：</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="399" />
+                <size width="144" height="22" />
+            </Text>
+            
+            <Text>
+                <text>当事人签名：</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="614" />
+                <size width="72" height="27" />
+            </Text>
+            
+            <Text>
+                <text>当事人代理人签名：</text>
+                <fontSize>12</fontSize>
+                <origin x="144" y="614" />
+                <size width="108" height="27" />
+            </Text>
+            
+            <Text>
+                <text>被邀请人签名：</text>
+                <fontSize>12</fontSize>
+                <origin x="324" y="614" />
+                <size width="84" height="27" />
+            </Text>
+            
+            <Text>
+                <text>勘验（检查）人签名：</text>
+                <fontSize>12</fontSize>
+                <origin x="0" y="649" />
+                <size width="120" height="27" />
+            </Text>
+            
+            <Text>
+                <text>记录人签名：</text>
+                <fontSize>12</fontSize>
+                <origin x="264" y="649" />
+                <size width="72" height="27" />
+            </Text>
+            
+            <Text>
+                <text>（本页写不下的内容可另附页）</text>
+                <fontSize>10</fontSize>
+                <origin x="0" y="681" />
+                <size width="460" height="18" />
+                <alignment>Center</alignment>
+            </Text>
+        </Texts>
+    </StaticTable>
+    <DataTable>
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="48" y="54" />
+            <size width="412" height="42" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{case_short_desc}-->
+                <data>
+                    <attributeName>case_short_desc</attributeName>
+                    
+                </data>
+            </content>
+        </UITextField>        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="108" y="89" />
+            <size width="36" height="27" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{start_date_time}-->
+                <data>
+                    <attributeName>start_date_time</attributeName>
+                    <mode>yyyy</mode>
+                    
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="156" y="89" />
+            <size width="24" height="27" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{start_date_time}-->
+                <data>
+                    <attributeName>start_date_time</attributeName>
+                    <mode>MM</mode>
+                    
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="192" y="89" />
+            <size width="24" height="27" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{start_date_time}-->
+                <data>
+                    <attributeName>start_date_time</attributeName>
+                    <mode>dd</mode>
+                    
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="228" y="89" />
+            <size width="24" height="27" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{start_date_time}-->
+                <data>
+                    <attributeName>start_date_time</attributeName>
+                    <mode>HH</mode>
+                    
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="264" y="89" />
+            <size width="24" height="27" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{start_date_time}-->
+                <data>
+                    <attributeName>start_date_time</attributeName>
+                    <mode>mm</mode>
+                    
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="312" y="89" />
+            <size width="24" height="27" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{end_date_time}-->
+                <data>
+                    <attributeName>end_date_time</attributeName>
+                    <mode>MM</mode>
+                    
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="348" y="89" />
+            <size width="24" height="27" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{end_date_time}-->
+                <data>
+                    <attributeName>end_date_time</attributeName>
+                    <mode>dd</mode>
+                    
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="384" y="89" />
+            <size width="24" height="27" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{end_date_time}-->
+                <data>
+                    <attributeName>end_date_time</attributeName>
+                    <mode>HH</mode>
+                    
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="420" y="89" />
+            <size width="24" height="27" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{end_date_time}-->
+                <data>
+                    <attributeName>end_date_time</attributeName>
+                    <mode>mm</mode>
+                    
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="108" y="116" />
+            <size width="228" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{prover_place}-->
+                <data>
+                    <attributeName>prover_place</attributeName>
+                    
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="408" y="116" />
+            <size width="52" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{organizer}-->
+                <data>
+                    <attributeName>organizer</attributeName>
+                    
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="96" y="144" />
+            <size width="48" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{prover1}-->
+                <data>
+                    <attributeName>prover1</attributeName>
+                    
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="228" y="144" />
+            <size width="108" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{prover1_duty}-->
+                <data>
+                    <attributeName>prover1_duty</attributeName>
+                    
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>10</fontSize>
+            <origin x="408" y="144" />
+            <size width="52" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{prover1_code}-->
+                <data>
+                    <attributeName>prover1_code</attributeName>
+                    
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="96" y="172" />
+            <size width="48" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{prover2}-->
+                <data>
+                    <attributeName>prover2</attributeName>
+                    
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="228" y="172" />
+            <size width="108" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{prover2_duty}-->
+                <data>
+                    <attributeName>prover2_duty</attributeName>
+                    
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>10</fontSize>
+            <origin x="408" y="172" />
+            <size width="52" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{prover2_code}-->
+                <data>
+                    <attributeName>prover2_code</attributeName>
+                    
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="60" y="193" />
+            <size width="240" height="42" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{citizen_name}-->
+                <data>
+                    <attributeName>citizen_name</attributeName>
+                    
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="348" y="200" />
+            <size width="24" height="27" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{citizen_sex}-->
+                <data>
+                    <attributeName>citizen_sex</attributeName>
+                    
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="420" y="200" />
+            <size width="24" height="27" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{citizen_age}-->
+                <data>
+                    <attributeName>citizen_age</attributeName>
+                    
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="60" y="227" />
+            <size width="120" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{citizen_no}-->
+                <data>
+                    <attributeName>citizen_no</attributeName>
+                    
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="264" y="227" />
+            <size width="196" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{citizen_duty}-->
+                <data>
+                    <attributeName>citizen_duty</attributeName>
+                    
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="60" y="255" />
+            <size width="240" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{citizen_address}-->
+                <data>
+                    <attributeName>citizen_address</attributeName>
+                    
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="372" y="255" />
+            <size width="88" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{citizen_tel}-->
+                <data>
+                    <attributeName>citizen_tel</attributeName>
+                    
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="84" y="283" />
+            <size width="60" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{party}-->
+                <data>
+                    <attributeName>party</attributeName>
+                    
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="192" y="283" />
+            <size width="24" height="27" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{party_sex}-->
+                <data>
+                    <attributeName>party_sex</attributeName>
+                    
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="264" y="283" />
+            <size width="24" height="27" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{party_age}-->
+                <data>
+                    <attributeName>party_age</attributeName>
+                    
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="372" y="283" />
+            <size width="88" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{party_tel}-->
+                <data>
+                    <attributeName>party_tel</attributeName>
+                    
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="60" y="310" />
+            <size width="120" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{party_card}-->
+                <data>
+                    <attributeName>party_card</attributeName>
+                    
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="264" y="310" />
+            <size width="196" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{party_org_duty}-->
+                <data>
+                    <attributeName>party_org_duty</attributeName>
+                    
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="60" y="338" />
+            <size width="72" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{invitee}-->
+                <data>
+                    <attributeName>invitee</attributeName>                    
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="216" y="338" />
+            <size width="244" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{Invitee_org_duty}-->
+                <data>
+                    <attributeName>invitee_org_duty</attributeName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="60" y="366" />
+            <size width="72" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{recorder}-->
+                <data>
+                    <attributeName>recorder</attributeName>
+                    
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="216" y="366" />
+            <size width="120" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{recorder_duty}-->
+                <data>
+                    <attributeName>recorder_duty</attributeName>
+                    
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>10</fontSize>
+            <origin x="408" y="366" />
+            <size width="52" height="28" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{recorder_code}-->
+                <data>
+                    <attributeName>recorder_code</attributeName>                    
+                </data>
+            </content>
+        </UITextField>
+        <UITextView>
+            <fontSize>12</fontSize>
+            <origin x="0" y="400" />
+            <size width="460" height="209" />
+            <alignment>Left</alignment>
+            <lineHeight>19</lineHeight>
+            <leftOffSet>150</leftOffSet>
+            <content>
+                <data>
+                    <attributeName>event_desc</attributeName>
+                </data>
+            </content>
+        </UITextView>
+    </DataTable>
+</ProveInfoTable>

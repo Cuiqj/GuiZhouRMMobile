@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServiceReceiptSubTable>
+    <Paper size="subTable" width="460" height="56">
+        <!--定义纸张边距，上，左，右，下-->
+    </Paper>
+    <StaticTable>
+        <Texts>
+            <Text>
+                <text>年</text>
+                <fontSize>12</fontSize>
+                <origin x="408" y="0" />
+                <size width="12" height="28" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>月</text>
+                <fontSize>12</fontSize>
+                <origin x="444" y="0" />
+                <size width="12" height="28" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>日</text>
+                <fontSize>12</fontSize>
+                <origin x="408" y="28" />
+                <size width="12" height="28" />
+                <alignment>Center</alignment>
+            </Text>
+            
+            <Text>
+                <text>时</text>
+                <fontSize>12</fontSize>
+                <origin x="444" y="28" />
+                <size width="12" height="28" />
+                <alignment>Center</alignment>
+            </Text>
+        </Texts>
+    </StaticTable>
+    <DataTable>
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="0" y="0" />
+            <size width="120" height="56" />
+            <alignment>Center</alignment>
+            <content>
+                <data>
+                    <attributeName>service_file</attributeName>
+                </data>
+                <text>\n</text>
+                <data>
+                    <attributeName>remark</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="180" y="0" />
+            <size width="48" height="56" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{send_way}-->
+                <data>
+                    <attributeName>send_way</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+        
+        <UITextField>
+            <fontSize>12</fontSize>
+            <origin x="228" y="0" />
+            <size width="84" height="56" />
+            <alignment>Center</alignment>
+            <content>
+                <!--$F{send_address}-->
+                <data>
+                    <attributeName>send_address</attributeName>
+                    <entityName></entityName>
+                </data>
+            </content>
+        </UITextField>
+    </DataTable>
+</ServiceReceiptSubTable>

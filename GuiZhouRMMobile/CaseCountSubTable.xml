@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CaseCountSubTable>
+    <Paper size="subTable" width="460" height="32">
+        <!--定义纸张边距，上，左，右，下-->
+    </Paper>
+       <DataTable>        
+           <SequenceNumber>
+               <fontSize>12</fontSize>
+               <origin x="0" y="0" />
+               <size width="28" height="32" />
+               <alignment>Center</alignment>
+           </SequenceNumber>
+           
+           <UITextField>
+               <fontSize>9</fontSize>
+               <origin x="28" y="0" />
+               <size width="126" height="32" />
+               <alignment>Center</alignment>
+               <content>
+                   <!--$F{roadasset_name}-->
+                   <data>
+                       <attributeName>roadasset_name</attributeName>
+                       <entityName></entityName>
+                   </data>
+               </content>
+               <condition>
+                   <!--长度限制，与字符串比较冲突-->
+                   <lengthLimit>
+                       <min>20</min>
+                   </lengthLimit>
+               </condition>
+           </UITextField>
+           
+           <UITextField>
+               <fontSize>12</fontSize>
+               <origin x="28" y="0" />
+               <size width="126" height="32" />
+               <alignment>Center</alignment>
+               <content>
+                   <!--$F{roadasset_name}-->
+                   <data>
+                       <attributeName>roadasset_name</attributeName>
+                       <entityName></entityName>
+                   </data>
+               </content>
+               <condition>
+                   <!--长度限制，与字符串比较冲突-->
+                   <lengthLimit>
+                       <max>20</max>
+                   </lengthLimit>
+                </condition>
+           </UITextField>
+           
+           <UITextField>
+               <fontSize>7</fontSize>
+               <origin x="154" y="0" />
+               <size width="70" height="32" />
+               <alignment>Center</alignment>
+               <content>
+                   <!--$F{rasset_size}-->
+                   <data>
+                       <attributeName>rasset_size</attributeName>
+                       <entityName></entityName>
+                   </data>
+               </content>
+               <condition>
+                   <!--长度限制，与字符串比较冲突-->
+                   <lengthLimit>
+                       <min>21</min>
+                    </lengthLimit>
+                </condition>
+           </UITextField>
+           
+           <UITextField>
+               <fontSize>9</fontSize>
+               <origin x="154" y="0" />
+               <size width="70" height="32" />
+               <alignment>Center</alignment>
+               <content>
+                   <!--$F{rasset_size}-->
+                   <data>
+                       <attributeName>rasset_size</attributeName>
+                       <entityName></entityName>
+                   </data>
+               </content>
+               <condition>
+                   <!--长度限制，与字符串比较冲突-->
+                   <lengthLimit>
+                       <min>10</min>
+                       <max>21</max>
+                   </lengthLimit>
+               </condition>
+           </UITextField>
+           
+           <UITextField>
+               <fontSize>12</fontSize>
+               <origin x="154" y="0" />
+               <size width="70" height="32" />
+               <alignment>Center</alignment>
+               <content>
+                   <!--$F{rasset_size}-->
+                   <data>
+                       <attributeName>rasset_size</attributeName>
+                       <entityName></entityName>
+                   </data>
+               </content>
+               <condition>
+                   <!--长度限制，与字符串比较冲突-->
+                   <lengthLimit>
+                       <max>10</max>
+                    </lengthLimit>
+               </condition>
+           </UITextField>
+           
+           <UITextField>
+               <fontSize>9</fontSize>
+               <origin x="224" y="0" />
+               <size width="42" height="32" />
+               <alignment>Center</alignment>
+               <content>
+                   <!--$F{unit}-->
+                   <data>
+                       <attributeName>unit</attributeName>
+                       <entityName></entityName>
+                   </data>
+               </content>
+               <condition>
+                   <!--长度限制，与字符串比较冲突-->
+                   <lengthLimit>
+                       <min>6</min>
+                   </lengthLimit>
+               </condition>
+           </UITextField>
+           
+           <UITextField>
+               <fontSize>12</fontSize>
+               <origin x="224" y="0" />
+               <size width="42" height="32" />
+               <alignment>Center</alignment>
+               <content>
+                   <!--$F{unit}-->
+                   <data>
+                       <attributeName>unit</attributeName>
+                       <entityName></entityName>
+                   </data>
+               </content>
+               <condition>
+                   <!--长度限制，与字符串比较冲突-->
+                   <lengthLimit>
+                       <max>6</max>
+                   </lengthLimit>
+               </condition>
+           </UITextField>
+           
+           <UITextField>
+               <fontSize>12</fontSize>
+               <origin x="266" y="0" />
+               <size width="42" height="32" />
+               <alignment>Center</alignment>
+               <content>
+                   <!--$F{quantity}-->
+                   <data>
+                       <attributeName>quantity</attributeName>
+                       <mode>#,##0.00</mode>
+                       <entityName></entityName>
+                   </data>
+               </content>
+           </UITextField>
+           
+           <UITextField>
+               <fontSize>12</fontSize>
+               <origin x="308" y="0" />
+               <size width="70" height="32" />
+               <alignment>Center</alignment>
+               <content>
+                   <!--$F{price}-->
+                   <data>
+                       <attributeName>price</attributeName>
+                       <mode>#,##0.00</mode>
+                       <entityName></entityName>
+                   </data>
+               </content>
+           </UITextField>
+           
+           <UITextField>
+               <fontSize>12</fontSize>
+               <origin x="378" y="0" />
+               <size width="70" height="32" />
+               <alignment>Center</alignment>
+               <content>
+                   <!--$F{total_price}-->
+                   <data>
+                       <attributeName>total_price</attributeName>
+                       <mode>#,##0.00</mode>
+                       <entityName></entityName>
+                   </data>
+               </content>
+           </UITextField>
+       </DataTable>
+</CaseCountSubTable>
